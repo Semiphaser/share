@@ -1,60 +1,42 @@
 ﻿#EXTM3U
-#EXTINF:0 group-title="Гусар",s01e01-Гусар
-https://s244149a61d.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/SEAODTiHbqSuFwyD4DH4ZA/1716042017/2020/10/Zl36gpFPx9IFwR4IsSE9_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Гусар",s01e02-Гусар
-https://s244149a61d.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/PQppbmDipjBssEsQaK8qbQ/1716042017/2020/10/bP95ZlUZGhgJJbRuwh24_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Гусар",s01e03-Гусар
-https://s244149a61d.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/L7L_pqbrHd16WASB2lscYw/1716042017/2020/10/pAvZWB5ghTytYP6Y97du_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Гусар",s01e04-Гусар
-https://s244149a61d.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/o9mleHPlMeFgen40khVLgw/1716042017/2020/10/CWD6FYoB71oIYfpEy7D2_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Гусар",s01e05-Гусар
-https://s65504521f6.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/LcE-Lvg1BFHAHqg9PL3acg/1716042017/2020/10/sAC8i6JYD8paxhOXGLU4_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Гусар",s01e06-Гусар
-https://s371514831c.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/Q74fpx6UMLSMe2D99pAJOg/1716042017/2020/10/4VwaYAFKUAVMBo8Opb2I_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Гусар",s01e07-Гусар
-https://s244149a61d.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/ETopy2zSTjZHIQY3uZLIQg/1716042017/2020/10/h77fptl9vWVf8jvJd89V_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Гусар",s01e08-Гусар
-https://s65504521f6.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/cveP_b17SbQ5AOuUuFoQUQ/1716042017/2020/10/G4HqmsUf5riueuLlAfVI_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Гусар",s01e09-Гусар
-https://s65504521f6.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/YA78wIfpbr8NZxcYtMkz2g/1716042017/2020/10/Zrw4IeoicV361f256Dcd_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Гусар",s01e10-Гусар
-https://s244149a61d.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/l_P6c6Nb7uvfyVeZ8_yZMw/1716042017/2020/10/ATHRfw0oNLyueASnUZHo_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Гусар",s01e11-Гусар
-https://s6nepzdkplth.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/hFc4TKVzl9OFbhC9_ytUcg/1716118557/2020/10/TNiDuakkwVpe7JC9NW1L_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Гусар",s01e12-Гусар
-https://s244149a61d.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/6jBuQlnF9OqbmfDTDuVdpQ/1716118557/2020/10/gnFQTzVbEQueZ9P33nGO_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Гусар",s01e13-Гусар
-https://s5w4nruklzsn.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/zz586Tu2P1yweL888BuHfw/1716118557/2020/10/6cxsdmkzOo42JErbPh4H_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Гусар",s01e14-Гусар
-https://s6nepzdkplth.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/RljwX7LGsgIucr5rUYpf3A/1716118557/2020/10/wTGI15kGu36gMEiViSG9_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Гусар",s01e15-Гусар
-https://s6nepzdkplth.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/Xl3Krh824X5hxUpELAAoSA/1716118557/2020/10/A83ecInjtpJDG4SdXGsV_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Гусар",s01e16-Гусар
-https://s6nepzdkplth.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/WR9MSCHUSMEetZ2AeBNn3A/1716118557/2020/10/kbPWTKzUaKU4TE6YGqKK_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Гусар",s01e17-Гусар
-https://s2za33islff9.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/nx6nGPFELDfvmTGXiT0waA/1716143583/2020/10/MPVktcpTwkzoPCy1JNey_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Гусар",s01e18-Гусар
-https://s1843346b2e.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/6Em7NOIR0XhA9NMUO7aOLw/1716143583/2020/10/yF55R4HTeGojeH2iyAP4_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Очевидное невероятное",s01e01-Очевидное невероятное
-https://s396499126.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/UGS9VXyGGUOGBieyBCtUQw/1716144604/2024/1/kKqLBV2qrJ4zGlB6vtJX_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Очевидное невероятное",s01e02-Очевидное невероятное
-https://s396499126.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/8AveQ7BrEeqILtekPU9muw/1716144604/2024/1/bpbxhw9yQSNFImcooXxD_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Очевидное невероятное",s01e03-Очевидное невероятное
-https://safcqvzi7bj.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/h3O9J8zOAgAo0V7sarLVkQ/1716144604/2024/2/4lhiaLCriaohUHyPHgqk_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Очевидное невероятное",s01e04-Очевидное невероятное
-https://s727439d31b.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/Ej7eS-RjYwHGUDQfjiEYeQ/1716144604/2024/2/clI8IJ5uKNxJYU1nFpZB_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Очевидное невероятное",s01e05-Очевидное невероятное
-https://s396499126.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/XLLKfI6KJdrY_XI3NmmYDg/1716144604/2024/2/4JOExXON6EsitKncwGQB_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Очевидное невероятное",s01e06-Очевидное невероятное
-https://s396499126.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/Nj89K03_mgEaSce2kaUrMg/1716144604/2024/2/YKIjv3anZvnQl1wL6VRX_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Очевидное невероятное",s01e07-Очевидное невероятное
-https://s108112cfa0.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/aFEHr_JrBCi4Pc_BYIBrMQ/1716144604/2024/2/HVxPaabT7T2PL8E486w6_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Очевидное невероятное",s01e08-Очевидное невероятное
-https://s78724194a2.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/1mdWu0eAB1yVwD8wxV1_zA/1716144604/2024/2/iPlF8sjlJ2RvhY8O4CSf_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Очевидное невероятное",s01e09-Очевидное невероятное
-https://s2382262221.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/wBOcvNPEFiLQM4SoFR4dMA/1716144604/2024/2/5zExsfLcUAaEa7NyH6mN_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Очевидное невероятное",s01e10-Очевидное невероятное
-https://s78724194a2.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/MGAroc5GOEg7c2GDfm6CVw/1716144604/2024/3/oQERu2DfC8a7ATP5IMZJ_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Отпуск",s01e01-Отпуск
+https://s4xicpeqxcf5.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/-BZlFYruS0EiZu1rnyKWeg/1716196623/2021/2/CN0BkPbn6WD92iJO2ufC_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Отпуск",s01e02-Отпуск
+https://s93579jfhsd172kls.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/KiuPq6mF7_SuGNyQJLYSLg/1716196623/2021/2/bLMLARMmsclgUeNtaKe8_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Отпуск",s01e03-Отпуск
+https://s10pdaycjnas.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/Pn6d5Vj8SgginJFE9tGQJg/1716196623/2021/2/3MD3tRTcm2S5Q8ZaMetF_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Отпуск",s01e04-Отпуск
+https://s4xicpeqxcf5.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/XmMmKS1CzzDxTb2Jv2ENQA/1716196623/2021/2/dEa9h2RhwkXQx6JGnrE8_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Отпуск",s01e05-Отпуск
+https://s10pdaycjnas.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/v6p9Gfh61T5Ubu6Nio1wOg/1716196623/2021/2/lPCMLuXpkqFYc58MsB4G_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Отпуск",s01e06-Отпуск
+https://s10pdaycjnas.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/8P4sTl66iZz0U7tH4vNixw/1716196623/2021/2/a8IPY7og5BJTk1bAAJi7_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Отпуск",s01e07-Отпуск
+https://s10pdaycjnas.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/Kt8NL53XZNZ6JiPXh5Zzow/1716196623/2021/2/fW3fTBKBZyiUUtBH1Uor_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Отпуск",s01e08-Отпуск
+https://s31vnrodimzi.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/15NZJNo1uiUq5fTciVJY1Q/1716196623/2021/2/Y9dj2eQJaRjLIdRyBuFX_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Отпуск",s01e09-Отпуск
+https://s93579jfhsd172kls.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/UH0HjqckU5s2hK8HC3j9kw/1716196623/2021/2/bx0VeiT1fR9jUsYujV6k_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Отпуск",s01e10-Отпуск
+https://s4xicpeqxcf5.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/CpposOgbZQfkfG3WqvKtnw/1716196623/2021/2/g26hPJ456DFFUJDFERTm_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Отпуск",s01e11-Отпуск
+https://s10pdaycjnas.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/d2YEFbZAscGqYuEfEwIHcQ/1716196623/2021/2/7rsOSvyuSxWD7MbJcLHA_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Отпуск",s01e12-Отпуск
+https://s31vnrodimzi.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/yFzKtqz6-8Zfh56iunzTsg/1716196623/2021/2/QnhSHQdRyEcHnvSLQeRM_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Отпуск",s01e13-Отпуск
+https://s10pdaycjnas.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/nU4Dn4W54Q6NpCAY7qqGvA/1716196623/2021/2/eI0RWFgxxFJ0Ke2w01Fx_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Отпуск",s01e14-Отпуск
+https://s10pdaycjnas.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/96RG4filqoH4Ld5FYQdAKw/1716196623/2021/2/p7Wa5yFg1bJiowkMNhe8_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Отпуск",s01e15-Отпуск
+https://s93579jfhsd172kls.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/sy04yG4InZ0_U4egoZYrXQ/1716196623/2021/2/MrQCkDXUD6hfUrkzcwAc_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Отпуск",s01e16-Отпуск
+https://s31vnrodimzi.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/fS77VyoQbciFxaPotCEAjQ/1716196623/2021/3/SMUwdPhKU3bKX3fgTBBP_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Отпуск",s01e17-Отпуск
+https://s93579jfhsd172kls.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/V6sbUDicaGN1WgBu8FLuOw/1716196623/2021/3/UtwJJB6sKjXHzumDpkab_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Отпуск",s01e18-Отпуск
+https://s31vnrodimzi.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/1C38QtkZDm2likx9EVZNZQ/1716196623/2021/3/qp5lCwYrHeZC6N9cVGlC_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Отпуск",s01e19-Отпуск
+https://s93579jfhsd172kls.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/zTlQ5GLAoqf6KIVeBxtoDQ/1716196623/2021/3/XB173nafY5fdtzsrdVPw_720.mp4/index-v1-a1.m3u8
 #EXTINF:0 group-title="Отчаянные домохозяйки",Отч.домохоз.s01e01.Тайны Вистерия Лейн (Пилот)
 https://s5.miradres.com/content/stream/films/desperate.housewives.s01e01.pilot.1080p.amzn.webdl.rus.eng_benderbest_543973/hls/720/index.m3u8
 #EXTINF:0 group-title="Отчаянные домохозяйки",Отч.домохоз.s01e02.Сюрпризы нашей жизни
