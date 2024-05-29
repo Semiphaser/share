@@ -1,32 +1,24 @@
 ﻿#EXTM3U
-#EXTINF:0 group-title="Полярный",s01e01-Полярный
-https://s4qaox8tvvmy.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/RHn94BcQSUrO8PVlt_7aWQ/1717055708/2023/11/wx0AUCqD3BNf6a2sNuxs_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Полярный",s01e02-Полярный
-https://s2ibhhmewh9v.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/dJLf8amlXOucrgab4s11xQ/1717055708/2023/11/P9drACfSuXJJJ7krbeqX_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Полярный",s01e03-Полярный
-https://s2ojsn2kev8.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/hc7-PP6oUtRNS-Eru7g4FQ/1717055708/2023/11/2DI4IPHjwkIcwaP4PPVt_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Полярный",s01e04-Полярный
-https://s2ojsn2kev8.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/5htJPY6LWoHVbl-dxQF8VQ/1717055708/2023/11/YralmpM74h0GECSVXsN4_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Полярный",s01e05-Полярный
-https://s2ibhhmewh9v.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/pgDbJfqKy58jmnNLTxHvcw/1717055708/2023/11/g11Vnly0DQ1mEow050ho_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Полярный",s01e06-Полярный
-https://s2ibhhmewh9v.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/K5UuguTmNo6tloIQJLQY9Q/1717055708/2023/11/cggGqht9ZMmgmGww8VaF_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Полярный",s01e07-Полярный
-https://s10pdaycjnas.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/4dk2ervwvUAcpa54ZBKT1w/1717055708/2023/11/DVXlH70xVmP7uvdXDDiP_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Полярный",s01e08-Полярный
-https://s10pdaycjnas.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/S1OQVY8n9jTEAJXPpbSS1w/1717055708/2023/11/x6Rmvxb32yT1o7z75tLJ_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Полярный",s01e09-Полярный
-https://s2ibhhmewh9v.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/kj8_2cnYMiYi0H4AnG1-yw/1717055708/2023/11/hmxwoid0hqADM3rarSTG_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Полярный",s01e10-Полярный
-https://s10pdaycjnas.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/9dXYwReXkmjJ0rtuu1qHBg/1717055708/2023/11/kXGGBQkq82h98RJth0QN_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Полярный",s01e11-Полярный
-https://s2ojsn2kev8.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/Q-3a_EgVfZa0tGA8EO2bVg/1717055708/2023/11/8sQV1qLnnPrndZhC1i3t_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Полярный",s01e12-Полярный
-https://s2ojsn2kev8.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/mQ31rSahRWjgK_5Y9nf36g/1717055708/2023/11/SeBtMfklu8sJFGk2gnRU_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Полярный",s01e13-Полярный
-https://s2ibhhmewh9v.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/hjcM__lcYk7GedT3nOdk_g/1717055708/2023/11/0q7lcJ7q5c1SVi7aR6eS_720.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Полярный",s01e14-Полярный
-https://s2ibhhmewh9v.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/abzb475G_JLWQQNf6IvCZg/1717055708/2023/11/38FDjXwQnIMSOC3e3zIz_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Психологини",s01e01-Психологини
+https://s585548e26c.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/fmjhdHGz_pCiqJdBq8zc3A/1717081620/2019/9/4vUnPmRHv1dQSkG9okRs.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Психологини",s01e02-Психологини
+https://s6nepzdkplth.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/hrxM6PxVhCt0njuLrUXVGg/1717081620/2019/9/xdk0a5FtsSQMju2SYvDc.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Психологини",s01e03-Психологини
+https://s2za33islff9.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/fzn1GdAKqG0NUWid3H6MhA/1717081620/2019/9/HmiMryJ5pBjO2gQpTFlD.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Психологини",s01e04-Психологини
+https://s2za33islff9.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/RiuF1x0gmn6S27uqIKcd8g/1717081620/2019/9/LH4wPuxmxRr3wdsU0Ly6.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Психологини",s01e05-Психологини
+https://s6nepzdkplth.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/te-Yr6-lzmHyUaMfOm9v3w/1717081620/2019/9/mabeRzlZUWbiNtIx1R92.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Психологини",s01e06-Психологини
+https://s2za33islff9.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/7S08e4MjsZ6Bgw0cdHQIVA/1717081620/2019/9/Z93MEtQUQ7o6Gj3Tdty2.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Психологини",s01e07-Психологини
+https://s606412e17.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/-Z91h8TSEvaKc6-X4uef1A/1717081620/2019/9/I8fD6stVhzmwZIUtz4eH.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Психологини",s01e08-Психологини
+https://s606412e17.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/ycqiwZhTxVDoPZ_wDEmZxA/1717081620/2019/9/1Ka0lSAnBE8FklZwIAAj.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Психологини",s01e09-Психологини
+https://s585548e26c.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/sJwtdZhtVBacO0eZtt6DqA/1717081620/2019/9/L0U7Aqlmj2YuYyjnnXyf.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Психологини",s01e10-Психологини
+https://s6nepzdkplth.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/M35i7YKXmdrswdbSymXpTQ/1717081620/2019/9/gLNfhZABdDgkn0gsKePv.mp4/index-v1-a1.m3u8
 
 #EXTINF:0 group-title="Отчаянные домохозяйки",Отч.домохоз.s01e01.Тайны Вистерия Лейн (Пилот)
 https://s5.miradres.com/content/stream/films/desperate.housewives.s01e01.pilot.1080p.amzn.webdl.rus.eng_benderbest_543973/hls/720/index.m3u8
