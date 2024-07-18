@@ -1,5 +1,12 @@
 ﻿#EXTM3U
 
+#EXTINF:0 group-title="ИП Пирогова",s03e01 ИП Пирогова
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1721338610/ei/kjaZZujAHvnLi9oPoOSh8A4/ip/195.78.100.163/id/04d7c6bdbef7cf80/itag/232/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D5797384917%3Bdur%3D112877.640%3Bgir%3Dyes%3Bitag%3D136%3Blmt%3D1708804468211648/rqh/1/hls_chunk_host/rr1---sn-2puapox-ig3l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/ga/mm/31,29/mn/sn-2puapox-ig3l,sn-3c27snel/ms/au,rdu/mv/m/mvi/1/pl/23/pcm2/yes/gcr/ua/initcwndbps/1968750/vprv/1/playlist_type/DVR/dover/13/txp/5535434/mt/1721316536/fvip/3/short_key/1/keepalive/yes/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,pcm2,gcr,vprv,playlist_type/sig/AJfQdSswRQIhAIpplpPJwB-SRDZil13934XpYUsjphcwTAFe_wxBlrJ7AiAeCeEg2iYyx8kmHqZfhYFr3qtuo4ruAhN_peD6I9up5g%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/AHlkHjAwRQIgHqF7cGts7VrPI2qzHQlq154CVKMy_C4vJkQpMFFR284CIQCpjxQlaKNG-7RtOwFBTozVOms0BN_BUpeIvZqNaAl55g%3D%3D/playlist/index.m3u8
+https://www.youtube.com/watch?v=BNfGvb73z4A&t=65748s
+
+#EXTINF:0 group-title="ИП Пирогова",s04e01 ИП Пирогова
+https://www.youtube.com/watch?v=BNfGvb73z4A&t=93880s
+
 #EXTINF:0 group-title="ИП Пирогова",s04e03 ИП Пирогова
 https://nl06.cdnsqu.com/s/FH6No6aYRW75swcULcz-cnUUFBQUFBQUFBQUFBUlVZSmhRZm9BUE9SR09qRT0.p4xPNRSigAO8lNIDMWwjcyrycTLHZpFd_Ps0yQ/ip.pirogova.rus-2019/s04e03_480.mp4
 #EXTINF:0 group-title="ИП Пирогова",s04e04 ИП Пирогова
