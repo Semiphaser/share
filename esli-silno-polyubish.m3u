@@ -1,44 +1,30 @@
 ﻿#EXTM3U
 
-#EXTINF:0 group-title="ИП Пирогова",s05e01 ИП Пирогова
-https://prx.ukrtelcdn.net/92ec24a4a31ed4a70f42d9d5511e6307:2024072108:enRWOGVMNWF5NjFPalhNVG5JejNYQjk4eW1heFF5QytkTy9NL1FxZFdvNXpoZFlabVVXeFd6Rk91eXZxYzRQUDdrWExrV0Z6UVE1a21FZXE2VUx4dHE1RGpnV3dDWm5KVk5tNUg4UjlQMGM9/5/8/0/8/7/6/bzy4o.mp4:
-hls:manifest.m3u8
-#EXTINF:0 group-title="ИП Пирогова",s05e02 ИП Пирогова
-https://prx.ukrtelcdn.net/3c370834907b76a760e39940dfe32ebf:2024072108:enRWOGVMNWF5NjFPalhNVG5JejNYQjk4eW1heFF5QytkTy9NL1FxZFdvNXpoZFlabVVXeFd6Rk91eXZxYzRQUDdrWExrV0Z6UVE1a21FZXE2VUx4dHNxN3ltZloyTkVhbENJbTFSQytHYTQ9/5/8/5/4/1/3/01vxr.mp4:
-hls:manifest.m3u8
-#EXTINF:0 group-title="ИП Пирогова",s05e03 ИП Пирогова
-https://prx.ukrtelcdn.net/44a60ffffdb71cd8ff2d526dfa4ec1c6:2024072108:enRWOGVMNWF5NjFPalhNVG5JejNYQjk4eW1heFF5QytkTy9NL1FxZFdvNXpoZFlabVVXeFd6Rk91eXZxYzRQUDdrWExrV0Z6UVE1a21FZXE2VUx4dHFMTkVGUjA5Wkl0TDR4amczWXRac0E9/5/8/9/4/1/1/pwem5.mp4:
-hls:manifest.m3u8
-#EXTINF:0 group-title="ИП Пирогова",s05e04 ИП Пирогова
-https://prx.ukrtelcdn.net/8f8ccda9e967746f33309e34e28c9f8d:2024072108:enRWOGVMNWF5NjFPalhNVG5JejNYQjk4eW1heFF5QytkTy9NL1FxZFdvNXpoZFlabVVXeFd6Rk91eXZxYzRQUDdrWExrV0Z6UVE1a21FZXE2VUx4dGk1M3ZvRm5INE9UclRNVWpDdGx5VDg9/5/9/4/5/6/1/mwr1c.mp4:
-hls:manifest.m3u8
-#EXTINF:0 group-title="ИП Пирогова",s05e05 ИП Пирогова
-https://prx.ukrtelcdn.net/7b9e863fe48f3c4f5c70372e3dcdf8fc:2024072108:enRWOGVMNWF5NjFPalhNVG5JejNYQjk4eW1heFF5QytkTy9NL1FxZFdvNXpoZFlabVVXeFd6Rk91eXZxYzRQUDdrWExrV0Z6UVE1a21FZXE2VUx4dHJUWHJJZkFabnp0eTczZE5iQURITkU9/6/0/1/7/1/3/ja55b.mp4:
-hls:manifest.m3u8
 #EXTINF:0 group-title="ИП Пирогова",s05e06 ИП Пирогова
-https://prx.ukrtelcdn.net/ca4236f843cc5d6550fa1a84cb9a0012:2024072108:enRWOGVMNWF5NjFPalhNVG5JejNYQjk4eW1heFF5QytkTy9NL1FxZFdvNXpoZFlabVVXeFd6Rk91eXZxYzRQUDdrWExrV0Z6UVE1a21FZXE2VUx4dG16ZWNRV0U2VjhCZnE3RUxxWXV2Mms9/6/0/5/8/0/6/0dpa0.mp4:
+https://prx.ukrtelcdn.net/895aa691e6c8b521052285905579dc69:2024072115:enRWOGVMNWF5NjFPalhNVG5JejNYQjk4eW1heFF5QytkTy9NL1FxZFdvNXpoZFlabVVXeFd6Rk91eXZxYzRQUDdrWExrV0Z6UVE1a21FZXE2VUx4dGdhUS9maWJURlVETnJ2MndjWGtMOUU9/6/0/5/8/0/6/0dpa0.mp4:
 hls:manifest.m3u8
 #EXTINF:0 group-title="ИП Пирогова",s05e07 ИП Пирогова
-https://prx.ukrtelcdn.net/e574a66b0844229b86ac854234960b7d:2024072108:enRWOGVMNWF5NjFPalhNVG5JejNYQjk4eW1heFF5QytkTy9NL1FxZFdvNXpoZFlabVVXeFd6Rk91eXZxYzRQUDdrWExrV0Z6UVE1a21FZXE2VUx4dG9ZeExNTFRac05DT3VSdmkrWnBjc1E9/6/0/9/2/3/2/e42t3.mp4:
-hls:manifest.m3u8
+https://prx.ukrtelcdn.net/s__turbo/043415c4a86faa2f992cd194da03f8ff:2024072115:enRWOGVMNWF5NjFPalhNVG5JejNYQjk4eW1heFF5QytkTy9NL1FxZFdvNXpoZFlabVVXeFd6Rk91eXZxYzRQUDdrWExrV0Z6UVE1a21FZXE2VUx4dHU4aXRmVzJJbTd6bUEvUFQ5cmIwVTA9/6/0/9/2/3/2/e
+42t3.mp4:hls:manifest.m3u8
 #EXTINF:0 group-title="ИП Пирогова",s05e08 ИП Пирогова
-https://prx.ukrtelcdn.net/e3e7d981b7dd152fdc33d807ea21884e:2024072108:enRWOGVMNWF5NjFPalhNVG5JejNYQjk4eW1heFF5QytkTy9NL1FxZFdvNXpoZFlabVVXeFd6Rk91eXZxYzRQUDdrWExrV0Z6UVE1a21FZXE2VUx4dHVsUFRZenpPOFdtRys3aERSQTRKdEk9/6/1/6/6/9/8/3burq.mp4:
+https://prx.ukrtelcdn.net/9691644a4fb477ddcc16eb8d140ea8bd:2024072115:enRWOGVMNWF5NjFPalhNVG5JejNYQjk4eW1heFF5QytkTy9NL1FxZFdvNXpoZFlabVVXeFd6Rk91eXZxYzRQUDdrWExrV0Z6UVE1a21FZXE2VUx4dHFaT0lYaTZMYTErMUNyTFFNYUlUM3c9/6/1/6/6/9/8/3burq.mp4:
 hls:manifest.m3u8
 #EXTINF:0 group-title="ИП Пирогова",s05e09 ИП Пирогова
-https://prx.ukrtelcdn.net/36cddb37392994a97c7069ff4bf447a1:2024072108:enRWOGVMNWF5NjFPalhNVG5JejNYQjk4eW1heFF5QytkTy9NL1FxZFdvNXpoZFlabVVXeFd6Rk91eXZxYzRQUDdrWExrV0Z6UVE1a21FZXE2VUx4dHMxb0FVY1FlQUthdlFhcjBseXk5WTg9/6/2/2/7/3/8/0l63q.mp4:
-hls:manifest.m3u8
+https://prx.ukrtelcdn.net/s__broadway/88722f2ecb430ce86523271ab2793aeb:2024072115:enRWOGVMNWF5NjFPalhNVG5JejNYQjk4eW1heFF5QytkTy9NL1FxZFdvNXpoZFlabVVXeFd6Rk91eXZxYzRQUDdrWExrV0Z6UVE1a21FZXE2VUx4dHF4eHVwK0VjOHdXbWxvSXBndEZaelk9/6/2/2/7/3/
+8/0l63q.mp4:hls:manifest.m3u8
 #EXTINF:0 group-title="ИП Пирогова",s05e10 ИП Пирогова
-https://prx.ukrtelcdn.net/d8a22a85710d51a1495be1a4300bc587:2024072108:enRWOGVMNWF5NjFPalhNVG5JejNYQjk4eW1heFF5QytkTy9NL1FxZFdvNXpoZFlabVVXeFd6Rk91eXZxYzRQUDdrWExrV0Z6UVE1a21FZXE2VUx4dGkxeTFyRlhVOTFtNUg1K2Y4bTNDVjg9/6/2/7/5/8/5/p8gkm.mp4:
+https://prx.ukrtelcdn.net/dbe85e64a663f4636e2268d79b383edc:2024072115:enRWOGVMNWF5NjFPalhNVG5JejNYQjk4eW1heFF5QytkTy9NL1FxZFdvNXpoZFlabVVXeFd6Rk91eXZxYzRQUDdrWExrV0Z6UVE1a21FZXE2VUx4dGgvUEEvQVVYUTlWOStlU25nZSt3K289/6/2/7/5/8/5/p8gkm.mp4:
 hls:manifest.m3u8
 #EXTINF:0 group-title="ИП Пирогова",s05e11 ИП Пирогова
-https://prx.ukrtelcdn.net/03d1e4414eb7ac3c27d95325809d9ccf:2024072108:enRWOGVMNWF5NjFPalhNVG5JejNYQjk4eW1heFF5QytkTy9NL1FxZFdvNXpoZFlabVVXeFd6Rk91eXZxYzRQUDdrWExrV0Z6UVE1a21FZXE2VUx4dGkyQlNNMDlKMDdjc2c1RG5KODRaTmc9/6/3/2/8/9/7/dw3fx.mp4:
-hls:manifest.m3u8
+https://prx.ukrtelcdn.net/s__harmony/d9871b2bfc4852bce73fe03bf9c8ab36:2024072115:enRWOGVMNWF5NjFPalhNVG5JejNYQjk4eW1heFF5QytkTy9NL1FxZFdvNXpoZFlabVVXeFd6Rk91eXZxYzRQUDdrWExrV0Z6UVE1a21FZXE2VUx4dGkwSHIybzROdXNDblhxMlE3TStPd3M9/6/3/2/8/9/7
+/dw3fx.mp4:hls:manifest.m3u8
 #EXTINF:0 group-title="ИП Пирогова",s05e12 ИП Пирогова
-https://prx.ukrtelcdn.net/c8d32e4cf5fecdbc746df7fd94c048d8:2024072108:enRWOGVMNWF5NjFPalhNVG5JejNYQjk4eW1heFF5QytkTy9NL1FxZFdvNXpoZFlabVVXeFd6Rk91eXZxYzRQUDdrWExrV0Z6UVE1a21FZXE2VUx4dG1QUW5zZy85SlNNWlpwa3dua1FtM2c9/6/3/8/0/1/3/gbsw8.mp4:
+https://prx.ukrtelcdn.net/db902921446ca1c0a5099f8a00e6f424:2024072115:enRWOGVMNWF5NjFPalhNVG5JejNYQjk4eW1heFF5QytkTy9NL1FxZFdvNXpoZFlabVVXeFd6Rk91eXZxYzRQUDdrWExrV0Z6UVE1a21FZXE2VUx4dHR6OGx1TlBobklRbUNab3kvM2xzTlE9/6/3/8/0/1/3/gbsw8.mp4:
 hls:manifest.m3u8
 #EXTINF:0 group-title="ИП Пирогова",s05e13 ИП Пирогова
-https://prx.ukrtelcdn.net/6e9402fbff52f0e5e9770aa2deaa4e69:2024072108:enRWOGVMNWF5NjFPalhNVG5JejNYQjk4eW1heFF5QytkTy9NL1FxZFdvNXpoZFlabVVXeFd6Rk91eXZxYzRQUDdrWExrV0Z6UVE1a21FZXE2VUx4dHM2bEd5NFN4cFlGNjdaTzNFL2tZVTQ9/6/4/3/4/7/1/hc6wa.mp4:
+https://prx.ukrtelcdn.net/c33fdf939afa24c898f8d8dce1c92b2d:2024072115:enRWOGVMNWF5NjFPalhNVG5JejNYQjk4eW1heFF5QytkTy9NL1FxZFdvNXpoZFlabVVXeFd6Rk91eXZxYzRQUDdrWExrV0Z6UVE1a21FZXE2VUx4dHB4bkthRGtyeVA4V2g5SWYvVnRMN2M9/6/4/3/4/7/1/hc6wa.mp4:
 hls:manifest.m3u8
+
 
 #EXTINF:0 group-title="Отчаянные домохозяйки",Отч.домохоз.s01e01.Тайны Вистерия Лейн (Пилот)
 https://s5.miradres.com/content/stream/films/desperate.housewives.s01e01.pilot.1080p.amzn.webdl.rus.eng_benderbest_543973/hls/720/index.m3u8
