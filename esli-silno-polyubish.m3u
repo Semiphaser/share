@@ -1,45 +1,39 @@
 ﻿#EXTM3U
 
-#EXTINF:0 group-title="Ольга",s01e01 Ольга
-https://filmos.in/e4597828999a9fe541a65c2c805e2d9c:2024081007/tvseries/5de1c878bc55f3416e1b7c42c7a45a73fac1d0be/720.mp4
-#EXTINF:0 group-title="Ольга",s01e02 Ольга
-https://filmos.in/490e3f6ff00b9bbfcaa6576030226f1c:2024081007/tvseries/8803937ea9009517980cee472ed5a2403b959b18/720.mp4
-#EXTINF:0 group-title="Ольга",s01e03 Ольга
-https://filmos.in/b50bf08e3dc677c9657ecfa0e77898e3:2024081007/tvseries/e92815b8e331e9c81dd71c547fcbff1eae7d6eca/720.mp4
-#EXTINF:0 group-title="Ольга",s01e04 Ольга
-https://filmos.in/535c55299f479d1c2600c4c8fbc0709f:2024081007/tvseries/f5d4cf51877c51be948d09d151fd5d17322a244e/720.mp4
-#EXTINF:0 group-title="Ольга",s01e05 Ольга
-https://filmos.in/f400f432b7eea64e2abe02b88e398cb9:2024081007/tvseries/f0dd183bb5fec19844237b314c8bf4caaf408e30/720.mp4
-#EXTINF:0 group-title="Ольга",s01e06 Ольга
-https://filmos.in/eb1cfcc8c0387c6a93da38a0e8ee8585:2024081007/tvseries/be2a12016efc2d9dd8c77e9f11a42f5c0aa51794/720.mp4
-#EXTINF:0 group-title="Ольга",s01e07 Ольга
-https://filmos.in/1582c7235ba8df97d2a0c2cd10d580f3:2024081007/tvseries/0d23cf74add837f5265fff077c7e760bc5f97811/720.mp4
-#EXTINF:0 group-title="Ольга",s01e08 Ольга
-https://filmos.in/191cf33aafa3a48a0e204c282b8e0f2d:2024081007/tvseries/f58cfdce62dd9fa7ea4327d98d2be697df8d7117/720.mp4
-#EXTINF:0 group-title="Ольга",s01e09 Ольга
-https://filmos.in/bad7fafbed54c0c1e63f49d74de9a05d:2024081007/tvseries/60525706a4480c9b0bf9a5b7073ea70975202324/720.mp4
-#EXTINF:0 group-title="Ольга",s01e10 Ольга
-https://filmos.in/71dc8e957693ade17cf74372259b431a:2024081008/tvseries/88582de1646acdb657e2a21a5fb25d281ef8c5df/720.mp4
-#EXTINF:0 group-title="Ольга",s01e11 Ольга
-https://filmos.in/7aada4ba1b07a9d414b2cfe1b9134ff5:2024081008/tvseries/2ac36805faf0066451963986e346601a6adb6418/720.mp4
-#EXTINF:0 group-title="Ольга",s01e12 Ольга
-https://filmos.in/70b898cfe028be009da494a7e4de7980:2024081008/tvseries/9d9cdf46a62b99a7ddbb3ca4f1bbbe5f3e4b664a/720.mp4
-#EXTINF:0 group-title="Ольга",s01e13 Ольга
-https://filmos.in/293cc5623a3cb59edb6c6d5e05df499a:2024081008/tvseries/3b6d9f8d359c04f608b27f989f1879544dd106c9/720.mp4
-#EXTINF:0 group-title="Ольга",s01e14 Ольга
-https://filmos.in/87c10e8643a34bafceb249e094dbc0c3:2024081008/tvseries/f5ede8e2e0c932b181dce8b6101bbaa8c4341f00/720.mp4
-#EXTINF:0 group-title="Ольга",s01e15 Ольга
-https://filmos.in/2d839314a49756cb93d6906bc2ff4779:2024081008/tvseries/7e2a1ea8e59b94132b90d24eedb0c97b640e086b/720.mp4
-#EXTINF:0 group-title="Ольга",s01e16 Ольга
-https://filmos.in/8b272d0dce1b8d744a408f4454a0309b:2024081008/tvseries/3542f4da01e8b6593c52f7d57642257ebc7351a7/720.mp4
-#EXTINF:0 group-title="Ольга",s01e17 Ольга
-https://filmos.in/a78041f497d90a8878629fb0f847da88:2024081008/tvseries/081c197f93d399862fab30341848f6903588fefc/720.mp4
-#EXTINF:0 group-title="Ольга",s01e18 Ольга
-https://filmos.in/de23c4ca44cd7b1e6830b8742e55c75e:2024081008/tvseries/3602135ec744e45ab24af2eeefbaa371e128d1ca/720.mp4
-#EXTINF:0 group-title="Ольга",s01e19 Ольга
-https://filmos.in/c2589091a29f67ce17a84d32581d4589:2024081008/tvseries/22d7026689391bbe7eb1374f7daa9eb72891caa5/720.mp4
-#EXTINF:0 group-title="Ольга",s01e20 Ольга
-https://filmos.in/2793170368296564a291a399d6841f08:2024081008/tvseries/b9eeb8388f23612ea75c5a715b872b2f42001eaf/720.mp4
+#EXTINF:0 group-title="Тётя Марта",s01e01 Тётя Марта
+https://filmos.in/77574456da64a1aff12ce3aaf9b28f7f:2024081009/tvseries/3ce8bb52e7c21a01fc7f6340f75b794557463ab7/720.mp4
+#EXTINF:0 group-title="Тётя Марта",s01e02 Тётя Марта
+https://filmos.in/e9ab45d926af0dc41541c5411590e08b:2024081009/tvseries/faebd8a1c4b66f1b58afc22d50d3c27b2228d550/720.mp4
+#EXTINF:0 group-title="Тётя Марта",s01e03 Тётя Марта
+https://filmos.in/8c8e36eb63b6b6c73f6451f5ee3b0033:2024081009/tvseries/4af17811c55c691e5dc24a51e94de26aeb9ec60e/720.mp4
+#EXTINF:0 group-title="Тётя Марта",s01e04 Тётя Марта
+https://filmos.in/525c01f141af0659015254b9af10ebf6:2024081009/tvseries/bfd2d79c8ed21f0c44518e4ceee32b1d31e6179a/720.mp4
+#EXTINF:0 group-title="Тётя Марта",s01e05 Тётя Марта
+https://filmos.in/34e02556a1d8a90bcc342df25ea6da13:2024081009/tvseries/4d08157b062c250fa94688e729c65b215f54216a/240.mp4
+#EXTINF:0 group-title="Тётя Марта",s01e06 Тётя Марта
+https://filmos.in/8216bdb17b9dd05656379fe86ba54c09:2024081009/tvseries/be313b533e569f7e7d6e7e10da57eb1b7807b5a9/720.mp4
+#EXTINF:0 group-title="Тётя Марта",s01e07 Тётя Марта
+https://filmos.in/5f9bff3f1fe5d96b6780e500cd5aacbb:2024081009/tvseries/0c57ebced9cecc4630ef939e68eaf3c99bc7e7da/720.mp4
+#EXTINF:0 group-title="Тётя Марта",s01e08 Тётя Марта
+https://filmos.in/e02123d12f18c1f9c8d2d41f44218336:2024081009/tvseries/82e1936c635092a82fbcdbde4f3d31fe55a6ea21/720.mp4
+#EXTINF:0 group-title="Тётя Марта",s01e09 Тётя Марта
+https://filmos.in/e94d12ae0c135472c5cd7a33b208f807:2024081009/tvseries/71eefbc3995c345d36da31bccdcd6b0a93f731f7/720.mp4
+#EXTINF:0 group-title="Тётя Марта",s01e10 Тётя Марта
+https://filmos.in/f77ccb493aacd95915e523fa2f9767bd:2024081009/tvseries/7c7f6edceddb7c26ca3150d4ac86f6e2b1ce8417/720.mp4
+#EXTINF:0 group-title="Тётя Марта",s01e11 Тётя Марта
+https://filmos.in/2236136941074e0766dcf05941bdfa4a:2024081009/tvseries/0b3c1ffff4cdb38dcd3a01d602ad73cc3b1db70e/720.mp4
+#EXTINF:0 group-title="Тётя Марта",s01e12 Тётя Марта
+https://filmos.in/6ae57ce80d27bcf3f026c3b03fd909d7:2024081009/tvseries/961acadc6a9fd5a23985f433c6045963e3b73efc/720.mp4
+#EXTINF:0 group-title="Тётя Марта",s01e13 Тётя Марта
+https://filmos.in/f8f1f63eefd21cee565e2533fd8a67c5:2024081009/tvseries/fe70d335f26edb1a8ea2bc81622fb8be1eeab836/720.mp4
+#EXTINF:0 group-title="Тётя Марта",s01e14 Тётя Марта
+https://filmos.in/759c56b91d26425836351342882a60d8:2024081009/tvseries/65d57529bb7b885ff918315d6df26fd4927f2ce9/240.mp4
+#EXTINF:0 group-title="Тётя Марта",s01e15 Тётя Марта
+https://filmos.in/3c85b923582ba962ab0434106495b9c7:2024081009/tvseries/d48d2e79d4142526ed88068a188fdb1a5ad6ee61/720.mp4
+#EXTINF:0 group-title="Тётя Марта",s01e16 Тётя Марта
+https://filmos.in/1e70b4d5ff8dcf20a91a986b00e990f7:2024081009/tvseries/0b27657598b6b37fa162a1c8b509bac742892be2/720.mp4
+#EXTINF:0 group-title="Тётя Марта",s01e17 Тётя Марта
+https://filmos.in/55995072bf3e614ed61408daed7fa12d:2024081009/tvseries/338a2be0a801e6542cdbf9683c40c1096c58c03b/720.mp4
 
 #EXTINF:0 group-title="Отчаянные домохозяйки",Отч.домохоз.s01e01.Тайны Вистерия Лейн (Пилот)
 https://s5.miradres.com/content/stream/films/desperate.housewives.s01e01.pilot.1080p.amzn.webdl.rus.eng_benderbest_543973/hls/720/index.m3u8
