@@ -1,17 +1,29 @@
 ﻿#EXTM3U
 
-#EXTINF:0 group-title="Тётя Марта",s02e12 Тётя Марта
-https://filmos.in/221e6826c7625c74dcdac3fd632a66bc:2024081306/tvseries/43adfe3e6d35a014eafd8a1594285a4b5562ff72/720.mp4
-#EXTINF:0 group-title="Тётя Марта",s02e13 Тётя Марта
-https://filmos.in/626f2c1dbbf01dd1cbaccc4ef9e07a5d:2024081306/tvseries/4713f169334f180af32a12ec9b66d5c9a46cc19f/720.mp4
-#EXTINF:0 group-title="Тётя Марта",s02e14 Тётя Марта
-https://filmos.in/b3303bc28294a1c04f719e7df1e7e681:2024081306/tvseries/a07a69a110523be846d42891f88e99d0e25d2b77/720.mp4
-#EXTINF:0 group-title="Тётя Марта",s02e15 Тётя Марта
-https://filmos.in/76a8b7d27145ab10a158529070b7370e:2024081306/tvseries/1b31f8fb4c4203d43bb5e16ac23d96f32c819369/720.mp4
-#EXTINF:0 group-title="Тётя Марта",s02e16 Тётя Марта
-https://filmos.in/b541cfd0d4baa5eaca89601e1377e35c:2024081306/tvseries/2d093af0d85a6c7880d79c6679dfc693edc9c941/720.mp4
-#EXTINF:0 group-title="Тётя Марта",s02e17 Тётя Марта
-https://filmos.in/746f5d8979e826d2a75d0d9d74409811:2024081306/tvseries/198e84f53b231905861d0d39c22aaf8c5a2fa998/720.mp4
+#EXTINF:0 group-title="Соседка",s01e01 Соседка
+https://filmos.in/5ff3e5b1de73b7bbd62548566b0cf4a3:2024081406/tvseries/886e9e77ecc6d3bc1a9706dfe80e451c9b49742b/720.mp4
+#EXTINF:0 group-title="Соседка",s01e02 Соседка
+https://filmos.in/967404db109cab4af1e63a365d1626df:2024081406/tvseries/f5c1caa36e0c852a6a3e52940f9e261e4843351a/720.mp4
+#EXTINF:0 group-title="Соседка",s01e03 Соседка
+https://filmos.in/cbea523dd649e48152efa5e157dee81f:2024081406/tvseries/2cb1b8b6caf4d178536b453496961fb04281a0f0/720.mp4
+#EXTINF:0 group-title="Соседка",s01e04 Соседка
+https://filmos.in/7cfc07b085d8646c07c783ca254a8d86:2024081406/tvseries/de82b4b0a32d928d05fd8567ae82cac71138107b/720.mp4
+#EXTINF:0 group-title="Соседка",s01e05 Соседка
+https://filmos.in/0f0f66ca8d387e8f4b2352ea8764171b:2024081406/tvseries/7ede268574a930fb6555005ca570ddce2b063349/720.mp4
+#EXTINF:0 group-title="Соседка",s01e06 Соседка
+https://filmos.in/fa66f43390a29680ce8bc49d6c33eeb3:2024081406/tvseries/dc12aaa3dfeed7abf7bd7ddb07bca8e9fb9e7a18/720.mp4
+#EXTINF:0 group-title="Соседка",s01e07 Соседка
+https://filmos.in/5913b37c1c8bba5fa9f0ac15f783915c:2024081406/tvseries/ee99d2586d976140c75065140c8c4f02cbdc281f/720.mp4
+#EXTINF:0 group-title="Соседка",s01e08 Соседка
+https://filmos.in/00d6856e42225f6b0ba3788f86f94e2e:2024081406/tvseries/ef8c1b5715a097d57a9589ad2df65c4ed00c508e/720.mp4
+#EXTINF:0 group-title="Соседка",s01e09 Соседка
+https://filmos.in/c1715cbbde8f7a80cb29fec1969850fa:2024081406/tvseries/4bbe51d65ed0cacc82bf13815f8b4ffb2dacc126/720.mp4
+#EXTINF:0 group-title="Соседка",s01e10 Соседка
+https://filmos.in/fe01ef3ddb763b1c54e9ad4949fd2e35:2024081406/tvseries/6d7ed168d2574d84460dc2c857c545d782a23859/240.mp4
+#EXTINF:0 group-title="Соседка",s01e11 Соседка
+https://filmos.in/9a573acb84e5660821e2577303be8aff:2024081406/tvseries/e38fa48993b4e224b549a2ac9ba2f833648088f9/720.mp4
+#EXTINF:0 group-title="Соседка",s01e12 Соседка
+https://filmos.in/8a0f9d93612fb835c0f9a934404fe255:2024081406/tvseries/a606a3866e66b2732975cfb9e3b0e6ca0b3b8e74/720.mp4
 
 #EXTINF:0 group-title="Отчаянные домохозяйки",Отч.домохоз.s01e01.Тайны Вистерия Лейн (Пилот)
 https://s5.miradres.com/content/stream/films/desperate.housewives.s01e01.pilot.1080p.amzn.webdl.rus.eng_benderbest_543973/hls/720/index.m3u8
