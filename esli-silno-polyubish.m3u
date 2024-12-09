@@ -1,31 +1,19 @@
 ﻿#EXTM3U
 
-#EXTINF:0 group-title="Макрон",s01e05 Макрон
-https://prx2-cogent.ukrtelcdn.net/5080d7395a587c390a7ca1487e57505f:2024120908:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd3ZLU3czMjI2d01ZODJPaWpSNldjblE9PQ==/1/1/6/5/3/7/6/u2z84.mp4:hls:manifest.m3u8
-#EXTINF:0 group-title="Макрон",s01e06 Макрон
-https://prx2-cogent.ukrtelcdn.net/6105ac792b9f327b0949c50751faacf0:2024120908:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOdy8zNDJDYTA5ZHZYVjhYQjJZMVp6NGc9PQ==/1/1/6/7/1/3/8/kqom9.mp4:hls:manifest.m3u8
-#EXTINF:0 group-title="Макрон",s01e07 Макрон
-https://prx2-cogent.ukrtelcdn.net/s__blue/9425a6091799dca1d6c352a1fbb5e6fa:2024120908:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd1RvU0hETGZaNSttM3pYNnYzZHRYSXc9PQ==/1/1/6/7/6/7/5/7bno7.mp4:hls:manifest.m3u8
-#EXTINF:0 group-title="Макрон",s01e08 Макрон
-https://prx-cogent.ukrtelcdn.net/275b7d8c0303d891ccca3f84664e2abb:2024120908:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOdzA0RUo1dWtvaTl5WlhrWXY5aWVjZVE9PQ==/1/1/6/8/2/0/1/mxlh0.mp4:hls:manifest.m3u8
-#EXTINF:0 group-title="Макрон",s01e09 Макрон
-https://prx2-cogent.ukrtelcdn.net/953e307b58aea60a94a0ce3a56a57054:2024120908:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd2tlTzd0dkd4QitsbGpoMzRBc0dVd3c9PQ==/1/1/6/8/7/4/2/hr4p5.mp4:hls:manifest.m3u8
-#EXTINF:0 group-title="Макрон",s01e10 Макрон
-https://prx-cogent.ukrtelcdn.net/fb8c82300cbfa5799999ee8c8891eadf:2024120908:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd05kME5CbnVXeWtmdHdiMHdKRVJuN1E9PQ==/1/1/7/1/3/5/2/g1usm.mp4:hls:manifest.m3u8
 #EXTINF:0 group-title="Макрон",s01e11 Макрон
-https://prx-cogent.ukrtelcdn.net/e45cb268e8b8d2a346ee7a39b73e3a37:2024120908:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd3I5cjVSVW8vUDdtbUEzWmZoWXFPZXc9PQ==/1/1/7/1/9/4/5/qhcnl.mp4:hls:manifest.m3u8
+https://prx-cogent.ukrtelcdn.net/8ab229c19c7d5f4cc78e5ed4c49a1406:2024121009:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd3JwTG5xWmNRTFowT3UwK3lYbmxVeWc9PQ==/1/1/7/7/4/3/0/3qlit.mp4:hls:manifest.m3u8
 #EXTINF:0 group-title="Макрон",s01e12 Макрон
-https://prx-cogent.ukrtelcdn.net/s__green/977555d94a6808e81ba2e7b8d11697a1:2024120908:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd0lSUloyanQ2dWVhOXM3ZDVOZDBYcEE9PQ==/1/1/7/2/2/6/9/eewcs.mp4:hls:manifest.m3u8
+https://prx2-cogent.ukrtelcdn.net/f5ee22a27ac815198eaecfff06d08038:2024121009:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd3ozOEUwZlR4UkVVZEN1Zis2cXN3VWc9PQ==/1/1/7/2/2/6/9/eewcs.mp4:hls:manifest.m3u8
 #EXTINF:0 group-title="Макрон",s01e13 Макрон
-https://prx2-cogent.ukrtelcdn.net/65c3266984f71aab5c5fb0910ff0f929:2024120908:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd3dGbGVlRmJkOFFlNWU0akEzbjkwRkE9PQ==/1/1/7/3/1/5/0/gteds.mp4:hls:manifest.m3u8
+https://stream.voidboost.cc/5e598ab2a6dae8ec3cc6d59d801817b4:2024121009:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd0xiVmYzZk9veXAwUlV4OGhRRjQ3dEE9PQ==/1/1/7/3/1/5/0/gteds.mp4:hls:manifest.m3u8
 #EXTINF:0 group-title="Макрон",s01e14 Макрон
-https://prx-cogent.ukrtelcdn.net/s__red/e4e6834001181fa24981d5a91a3c8d99:2024120908:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd3ZtaXY0T0svMnVrWDY2ek5vaFlvcXc9PQ==/1/1/7/5/4/5/9/fthhx.mp4
+https://prx2-cogent.ukrtelcdn.net/4bf89089ab004a2c414847246dc8b3b7:2024121009:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd1lKb1pNS0lIR0VoN1FPWUJVSWt1RVE9PQ==/1/1/7/5/4/5/9/fthhx.mp4:hls:manifest.m3u8
 #EXTINF:0 group-title="Макрон",s01e15 Макрон
-https://prx2-cogent.ukrtelcdn.net/5e5e3e31945f227bc664102764587f2d:2024120908:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOdzJ2cDBZQVQ2ckpyR0M5cDlmQXFOSUE9PQ==/1/1/7/5/9/9/8/i7mj7.mp4:hls:manifest.m3u8
+https://prx-cogent.ukrtelcdn.net/s__iridium/040b2b2cf7dd1d75e92294cfaefd47ac:2024121009:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOdzVzSDVDRkFNbFAwNHBxWTl0UDU1U1E9PQ==/1/1/7/5/9/9/8/i7mj7.mp4:hls:manifest.m3u8
 #EXTINF:0 group-title="Макрон",s01e16 Макрон
-https://prx-cogent.ukrtelcdn.net/s__indigo/f1ea7ebbab41de43ba7ef7be64d370e4:2024120908:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd05IelpURUlqRGVTYXgvdk1rNVdJTlE9PQ==/1/1/7/6/3/8/8/y0ggc.mp4:hls:manifest.m3u8
+https://prx2-cogent.ukrtelcdn.net/s__indigo/4514819fd573fd7bcf928e12d3a293f4:2024121009:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd2pRc3dCLzFEdzBmdXZyOHM0NTJwK3c9PQ==/1/1/7/6/3/8/8/y0ggc.mp4:hls:manifest.m3u8
 #EXTINF:0 group-title="Макрон",s01e17 Макрон
-https://prx2-cogent.ukrtelcdn.net/96d32702335807e2b68788941d6b2075:2024120908:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd1NIYStPUXNjeHdBTk9TcFNYcmxWaUE9PQ==/1/1/7/7/4/3/0/3qlit.mp4:hls:manifest.m3u8
+https://prx2-cogent.ukrtelcdn.net/s__green/54ca533d66c8d925ee6e204111812c2c:2024121009:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd1JNcXhjV1FheFdhd3J4UThiN3p4WGc9PQ==/1/1/7/7/4/3/0/3qlit.mp4:hls:manifest.m3u8
 
 #EXTINF:0 group-title="Отчаянные домохозяйки",Отч.домохоз.s01e01.Тайны Вистерия Лейн (Пилот)
 https://s5.miradres.com/content/stream/films/desperate.housewives.s01e01.pilot.1080p.amzn.webdl.rus.eng_benderbest_543973/hls/720/index.m3u8
