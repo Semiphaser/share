@@ -1,11 +1,23 @@
 ﻿#EXTM3U
 
-#EXTINF:0 group-title="На страже пляжа",s01e06 На страже пляжа
-https://prx2-cogent.ukrtelcdn.net/s__ozzy/ccd8f86ef4e1a131a397bc0656516516:2024121219:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOdzJ0Vmd4Qmt6VVpiTWRtaHF5azFGRHc9PQ==/6/4/9/3/8/3/2xgt7.mp4:hls:manifest.m3u8
-#EXTINF:0 group-title="На страже пляжа",s01e07 На страже пляжа
-https://prx2-cogent.ukrtelcdn.net/s__selenium/0da75bdfeac6e65341214beb689bbba1:2024121219:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd0VnU1F2TDFkaE54Y2pnMExzRUZQMmc9PQ==/6/5/3/0/6/7/eal32.mp4:hls:manifest.m3u8
 #EXTINF:0 group-title="На страже пляжа",s01e08 На страже пляжа
-https://prx2-cogent.ukrtelcdn.net/s__pioneer/9f695e60036b0a55c6db4a8b6f088ded:2024121219:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd2ZLWXFQa21PWmtVc1F2MXg3WmMvTkE9PQ==/6/5/4/2/9/6/rr186.mp4:hls:manifest.m3u8
+https://prx-cogent.ukrtelcdn.net/s__pioneer/9cf419743c1c650e1614da42277608fb:2024121310:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd1JuTTZVNUwrMHgxM25oaVBBYmtTUVE9PQ==/6/5/4/2/9/6/rr186.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="На страже пляжа",s01e01 На страже пляжа
+https://prx2-cogent.ukrtelcdn.net/c580f61430552dc34dc0f4e7353d23cb:2024121310:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd0c0bmdXa1owd1RQOThmMWNQanpWU0E9PQ==/8/8/4/8/9/7/ioepy.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="На страже пляжа",s01e02 На страже пляжа
+https://prx-cogent.ukrtelcdn.net/s__kurt/17f5a31fdf11ff0019529a03135fbdae:2024121310:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOdzFOSzRac1prOWtxajBRUktuUkE3UEE9PQ==/8/8/4/8/9/8/52qry.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="На страже пляжа",s01e03 На страже пляжа
+https://stream.voidboost.cc/f73896a0ee08df5436d021c7c0ecffe9:2024121310:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd1MwanUxMjVHOTVwUG9tTnFkdTg1UlE9PQ==/8/8/7/9/0/9/kqbls.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="На страже пляжа",s01e04 На страже пляжа
+https://prx2-cogent.ukrtelcdn.net/s__sagitta/4a47febe243fc5f1f16f1d03cc7ce8fc:2024121310:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd25LSGxmSWV4M29tRVIxQW1CL201MWc9PQ==/8/8/8/8/0/0/w9phv.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="На страже пляжа",s01e05 На страже пляжа
+https://prx2-cogent.ukrtelcdn.net/s__relax/704dd921fd0f81930fed07282676d80e:2024121310:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOdy9sd0kxKzFGK3c1ZTIrN2RnZ2dhU1E9PQ==/8/9/3/9/3/1/bmrjz.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="На страже пляжа",s01e06 На страже пляжа
+https://prx2-cogent.ukrtelcdn.net/s__milanium/351a115efb4a0de2470b15a1c7d894e3:2024121310:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd1JDeTRiS2orTjV5SlVCY2I2Rk5FTGc9PQ==/8/9/3/9/3/2/gmjg0.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="На страже пляжа",s01e07 На страже пляжа
+https://prx2-cogent.ukrtelcdn.net/s__blitz/692426985103e439a15ed75cf1f2f5aa:2024121310:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd0E0UjRMbDNvV055bStQMW41cWpadWc9PQ==/8/9/6/6/9/5/jvvs1.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="На страже пляжа",s01e08 На страже пляжа
+https://prx-cogent.ukrtelcdn.net/69c1130b9191b45788fc348faeb7d175:2024121310:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd0k3RjNkaUcvbE9pT0FXeHdYeXBpRHc9PQ==/8/9/6/8/2/5/nwhbd.mp4:hls:manifest.m3u8
 
 #EXTINF:0 group-title="Отчаянные домохозяйки",Отч.домохоз.s01e01.Тайны Вистерия Лейн (Пилот)
 https://s5.miradres.com/content/stream/films/desperate.housewives.s01e01.pilot.1080p.amzn.webdl.rus.eng_benderbest_543973/hls/720/index.m3u8
