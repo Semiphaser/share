@@ -1,17 +1,14 @@
 ﻿#EXTM3U
 
-#EXTINF:0 group-title="На страже пляжа",s02e03 На страже пляжа
-https://prx2-cogent.ukrtelcdn.net/s__capitol/40d52c270cae8f1fe946f2f14ca65bd9:2024121409:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOdzBpTjFTNjBOdXlmQndOYXFmbUhYOXc9PQ==/8/8/7/9/0/9/kqbls.mp4:hls:manifest.m3u8
-#EXTINF:0 group-title="На страже пляжа",s02e04 На страже пляжа
-https://prx2-cogent.ukrtelcdn.net/s__sagitta/3cde6fdf296a9ad59d550411cb375267:2024121409:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOdy8xVTlCMVYrNm8vU05YZTBjcjlXcWc9PQ==/8/8/8/8/0/0/w9phv.mp4:hls:manifest.m3u8
-#EXTINF:0 group-title="На страже пляжа",s02e05 На страже пляжа
-https://prx2-cogent.ukrtelcdn.net/s__relax/5dbb52f4768d4bf870027e81382e9950:2024121409:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd216V1B0NHY0UFlIak9aSVpBMWp4cmc9PQ==/8/9/3/9/3/1/bmrjz.mp4:hls:manifest.m3u8
-#EXTINF:0 group-title="На страже пляжа",s02e06 На страже пляжа
-https://prx2-cogent.ukrtelcdn.net/s__milanium/959efa0e51319b527b57f881e972a99e:2024121409:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd1YzMXpIOElFKzcxMWpCQ0U0eXRkemc9PQ==/8/9/3/9/3/2/gmjg0.mp4:hls:manifest.m3u8
-#EXTINF:0 group-title="На страже пляжа",s02e07 На страже пляжа
-https://prx-cogent.ukrtelcdn.net/95643335b50a69195c71b16d2eaf423b:2024121409:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd2IvOUFFTGd1NUhCSURkMkpWVHJjVkE9PQ==/8/9/6/6/9/5/jvvs1.mp4:hls:manifest.m3u8
 #EXTINF:0 group-title="На страже пляжа",s02e08 На страже пляжа
-https://prx-cogent.ukrtelcdn.net/s__yttrium/361b58048914d8004cbbd112364e1343:2024121409:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd3A5VGNPd3BDZ2tnbjZuZlJLZi9SL2c9PQ==/8/9/6/8/2/5/nwhbd.mp4:hls:manifest.m3u8
+https://prx-cogent.ukrtelcdn.net/s__yttrium/216634192170a9cbae685a643bae7dc3:2024121508:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOdzBrbk0yenczdkp3VTI2bk4rUzhGeEE9PQ==/8/9/6/8/2/5/nwhbd.mp4:hls:manifest.m3u8
+
+#EXTINF:0 group-title="Макрон",s01e18 Макрон
+https://prx2-cogent.ukrtelcdn.net/036d07f039b64411e52baba6ab2c14a3:2024121508:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd2ovTGhqbjlJRSt4M0pidzE1cVhwQXc9PQ==/1/1/8/0/1/3/0/zykq9.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="Макрон",s01e19 Макрон
+https://prx-cogent.ukrtelcdn.net/ad011d17668f1257aeab7fbf20c5102e:2024121508:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOdytQUW1ERndBMTN3QW1tVTEwc1hMMHc9PQ==/1/1/8/0/4/5/7/u0f2b.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="Макрон",s01e20 Макрон
+https://prx-cogent.ukrtelcdn.net/96fd0b4e094fb07c31de169a7ca42871:2024121508:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOdzB6SUxRdmd6c0prVzJMMzdXWUNsRmc9PQ==/1/1/8/0/9/2/5/6qfr5.mp4:hls:manifest.m3u8
 
 #EXTINF:0 group-title="Отчаянные домохозяйки",Отч.домохоз.s01e01.Тайны Вистерия Лейн (Пилот)
 https://s5.miradres.com/content/stream/films/desperate.housewives.s01e01.pilot.1080p.amzn.webdl.rus.eng_benderbest_543973/hls/720/index.m3u8
