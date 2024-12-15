@@ -1,14 +1,29 @@
 ﻿#EXTM3U
 
-#EXTINF:0 group-title="На страже пляжа",s02e08 На страже пляжа
-https://prx-cogent.ukrtelcdn.net/s__yttrium/216634192170a9cbae685a643bae7dc3:2024121508:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOdzBrbk0yenczdkp3VTI2bk4rUzhGeEE9PQ==/8/9/6/8/2/5/nwhbd.mp4:hls:manifest.m3u8
-
-#EXTINF:0 group-title="Макрон",s01e18 Макрон
-https://prx2-cogent.ukrtelcdn.net/036d07f039b64411e52baba6ab2c14a3:2024121508:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd2ovTGhqbjlJRSt4M0pidzE1cVhwQXc9PQ==/1/1/8/0/1/3/0/zykq9.mp4:hls:manifest.m3u8
-#EXTINF:0 group-title="Макрон",s01e19 Макрон
-https://prx-cogent.ukrtelcdn.net/ad011d17668f1257aeab7fbf20c5102e:2024121508:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOdytQUW1ERndBMTN3QW1tVTEwc1hMMHc9PQ==/1/1/8/0/4/5/7/u0f2b.mp4:hls:manifest.m3u8
-#EXTINF:0 group-title="Макрон",s01e20 Макрон
-https://prx-cogent.ukrtelcdn.net/96fd0b4e094fb07c31de169a7ca42871:2024121508:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOdzB6SUxRdmd6c0prVzJMMzdXWUNsRmc9PQ==/1/1/8/0/9/2/5/6qfr5.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="Помоги мне, Тодд",s01e01 Помоги мне, Тодд
+https://prx-cogent.ukrtelcdn.net/s__mystic/e6e767ae2bffc2e6d455fd0179dddba1:2024121607:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd0o5YStCeTRKLzhPNXY5NFBYUE9UcVE9PQ==/6/6/7/8/9/7/37iso.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="Помоги мне, Тодд",s01e02 Помоги мне, Тодд
+https://prx2-cogent.ukrtelcdn.net/10d27ecf8a512d52994e8a71514ebd32:2024121608:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd1dMT3VNK21WeTJqQjRDb2FZZzBOY2c9PQ==/6/7/1/4/6/8/vxmps.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="Помоги мне, Тодд",s01e03 Помоги мне, Тодд
+https://prx2-cogent.ukrtelcdn.net/s__acheron/4441571437147fdfc7650d0f98f2d8c2:2024121608:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd2xMMjMxSDlLVms3YU5lc0kyaDJHUmc9PQ==/6/7/8/2/1/3/sb7r8.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="Помоги мне, Тодд",s01e04 Помоги мне, Тодд
+https://prx2-cogent.ukrtelcdn.net/s__anteros/a0797083053e3268300a00358e5c319d:2024121608:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd3VFcHZEd2I5amRXT1FIbUZpWGc2c1E9PQ==/6/8/2/6/7/5/e4z2e.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="Помоги мне, Тодд",s01e05 Помоги мне, Тодд
+https://prx2-cogent.ukrtelcdn.net/s__broadway/a175ed8b4656e8706cda5ac21e1768bc:2024121608:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd28vbXhPbXlyTlE3L3JrUHBNdTFoL2c9PQ==/6/8/9/2/2/4/ce5qy.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="Помоги мне, Тодд",s01e06 Помоги мне, Тодд
+https://prx2-cogent.ukrtelcdn.net/s__calypso/22a1459521890c4c45e2616a9617daa8:2024121608:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOdzJrcUh6cU9WS0FyRVpadUthNmdlYVE9PQ==/6/9/6/2/1/7/o0suw.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="Помоги мне, Тодд",s01e07 Помоги мне, Тодд
+https://prx2-cogent.ukrtelcdn.net/s__fiber/092d7eaaaed72206e3f78c2619dcaedd:2024121608:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd0FXalJ5dkZNSStaZjZ3UnB0STZ0UkE9PQ==/7/0/3/7/6/6/xeil5.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="Помоги мне, Тодд",s01e08 Помоги мне, Тодд
+https://stream.voidboost.cc/aa1b4456427d8910b2a0c5049f4aa263:2024121608:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOdzU5ZjFPbTBBYlVENEh1U0Vvd05rM1E9PQ==/7/2/1/2/8/1/ez7go.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="Помоги мне, Тодд",s01e09 Помоги мне, Тодд
+https://prx-cogent.ukrtelcdn.net/s__sparta/327d5e3f89cc134a176c25989cbc21e3:2024121608:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd2dyWVd5Z3JlRGI3SFBuQ1hUcHplZlE9PQ==/7/2/9/0/3/3/ui44w.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="Помоги мне, Тодд",s01e10 Помоги мне, Тодд
+https://prx-cogent.ukrtelcdn.net/s__ranger/af6bb70b21b9426e4c8546dc69faeb46:2024121608:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd0E4THJSb1Q0T2dEaHp6SkYwQ3hsc3c9PQ==/7/4/0/8/9/7/tnvkh.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="Помоги мне, Тодд",s01e11 Помоги мне, Тодд
+https://prx-cogent.ukrtelcdn.net/s__phantom/2ec6f409482392bca2a4d27d3afdf0f6:2024121608:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOdzZOUzRwUVhEVjQ0WlMvMm1PbThwd3c9PQ==/7/4/6/0/0/4/vom4c.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="Помоги мне, Тодд",s01e12 Помоги мне, Тодд
+https://prx2-cogent.ukrtelcdn.net/65676663dc8c1bf66808533a027ed543:2024121608:enRWOGVMNWF5NjFPalhNVG5JejNYTHdsYWx0aEJBR1l5aUl0WkZMYXErVEU3RDR0RlNUWmJCRmtONElFRlhOd0F4eWFOZmx1NldQR1BxQWE1UDJFaGc9PQ==/7/6/2/0/0/0/1othr.mp4:hls:manifest.m3u8
 
 #EXTINF:0 group-title="Отчаянные домохозяйки",Отч.домохоз.s01e01.Тайны Вистерия Лейн (Пилот)
 https://s5.miradres.com/content/stream/films/desperate.housewives.s01e01.pilot.1080p.amzn.webdl.rus.eng_benderbest_543973/hls/720/index.m3u8
@@ -370,53 +385,4 @@ https://s2.miradres.com/content/stream/films/21_the_people_will_hear_hd/hls/720/
 https://s2.miradres.com/content/stream/films/22_give_me_the_blame_hd/hls/720/index.m3u8
 #EXTINF:0 group-title="Отчаянные домохозяйки",s08e23-Последний штрих
 https://s2.miradres.com/content/stream/films/23_finishing_the_hat_hd/hls/720/index.m3u8
-#EXTINF:0 group-title="Запретный плод",Запретный плод s01e01
-https://videozona.co/content/stream/serials/zapretnyj_plod/7f_01zapretniy.plod.2018.l2..a1.16.05.18_8792/hls/index.m3u8
-#EXTINF:0 group-title="Запретный плод",Запретный плод s01e02
-https://videozona.co/content/stream/serials/zapretnyj_plod/7f_02zapretniy.plod.2018.l2..a1.16.05.18_8793/hls/index.m3u8
-#EXTINF:0 group-title="Запретный плод",Запретный плод s01e03
-https://videozona.co/content/stream/serials/zapretnyj_plod/7f_03zapretniy.plod.2018.l2.a1.16.05.18_8794/hls/index.m3u8
-#EXTINF:0 group-title="Запретный плод",Запретный плод s01e04
-https://videozona.co/content/stream/serials/zapretnyj_plod/7f_04zapretniy.plod.2018.l2.a1.16.05.18_8795/hls/index.m3u8
-#EXTINF:0 group-title="Запретный плод",Запретный плод s01e05
-https://videozona.co/content/stream/serials/zapretnyj_plod/7f_05zapretniy.plod.2018.l2.a1.16.05.18_8796/hls/index.m3u8
-#EXTINF:0 group-title="Запретный плод",Запретный плод s01e06
-https://videozona.co/content/stream/serials/zapretnyj_plod/7f_06zapretniy.plod.2018.l2.a1.16.05.18_8797/hls/index.m3u8
-#EXTINF:0 group-title="Запретный плод",Запретный плод s01e07
-https://videozona.co/content/stream/serials/zapretnyj_plod/7f_07zapretniy.plod.2018.l2.a1.16.05.18_8798/hls/index.m3u8
-#EXTINF:0 group-title="Запретный плод",Запретный плод s01e08
-https://videozona.co/content/stream/serials/zapretnyj_plod/7f_08zapretniy.plod.2018.l2.a1.16.05.18_8799/hls/index.m3u8
-#EXTINF:0 group-title="Запретный плод",Запретный плод s01e09
-https://videozona.co/content/stream/serials/zapretnyj_plod/7f_09zapretniy.plod.2018.l2.a1.16.05.18_8800/hls/index.m3u8
-#EXTINF:0 group-title="Запретный плод",Запретный плод s01e10
-https://videozona.co/content/stream/serials/zapretnyj_plod/7f_zapretniy.plod.s01.e10.2018.l1.webrip720p.a1.23.05.18_8801/hls/index.m3u8
-#EXTINF:0 group-title="Ранняя пташка",Ранняя пташка 01
-https://s417754d5ae.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/dMOK1L2WOlanY_keNlIFPQ/1710232238/2020/10/221i2dBAd5IWULkBYhAt_360.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Ранняя пташка",Ранняя пташка 02
-https://s1843346b2e.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/1dGbVJP8slszVpGCl-yvCg/1710232238/2020/10/6RwKnQJm3vtWyWjNpkeO_360.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Ранняя пташка",Ранняя пташка 03
-https://s1843346b2e.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/Y6k8dudQ5K2ZKAVfLZdW5A/1710232238/2020/10/xRvFoZxQ3y2J6jsczr9E_360.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Ранняя пташка",Ранняя пташка 04
-https://s417754d5ae.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/BJ9iM2vRE-fvJMsjXvuPbA/1710232238/2020/10/lmJRQjgSc4mqUZSH0prg_360.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Ранняя пташка",Ранняя пташка 05
-https://s6529137a59.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/Y8r6PZgWBeuM22thJFYc9g/1710232238/2020/10/U9TmbQr3DDjD985vKuFt_360.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Ранняя пташка",Ранняя пташка 06
-https://s606412e17.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/rVbBZZKJy-JX-cOFQuc4lA/1710147908/2020/10/XrrhOY2MuWYfxCi5OZwq_360.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Ранняя пташка",Ранняя пташка 07
-https://s606412e17.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/k0TXXXtBB2sKQJGbcP5ovA/1710147908/2020/10/E8USQL6H6JfWZfh56qkB_360.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Ранняя пташка",Ранняя пташка 08
-https://s1843346b2e.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/XF8N3OeEdsoIf2dO3jGZ_w/1710147908/2020/10/YNva0jMm2wCV7OKPpEWG_360.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Ранняя пташка",Ранняя пташка 09
-https://s65504521f6.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/Im5xY6Pb702pwItUod01ew/1710147908/2020/10/AAOpobW7zeUDkhkl1b4n_360.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Ранняя пташка",Ранняя пташка 10
-https://s244149a61d.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/LuF_-KrM_qLpfNA0iovBiw/1710147908/2020/10/s8rikFa6zh0Tcn6FMyDV_360.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Ранняя пташка",Ранняя пташка 11
-https://s606412e17.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/UwCd2GtI4Iyd1Ml_ZZAFTQ/1710147908/2020/10/go07mtCWMpP6BY4F6irw_360.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Ранняя пташка",Ранняя пташка 12
-https://s65504521f6.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/LgsuIXHFjGjrdhW6j7frmw/1710147908/2020/10/TjOHKSDWuq287Nez8Ss3_360.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Ранняя пташка",Ранняя пташка 13
-https://s244149a61d.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/0k-tAtbk6aJHFAIa_M7k6A/1710147908/2020/10/rUakAM8ACXGzZXDh6Epe_360.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Ранняя пташка",Ранняя пташка 14
-https://s1843346b2e.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/0h3tKB6jIq9xCbZYUfq7FQ/1710147908/2020/10/z8d3005xw1oGPnhTSTQk_360.mp4/index-v1-a1.m3u8
-#EXTINF:0 group-title="Ранняя пташка",Ранняя пташка 15
-https://s65504521f6.cloudex.cc/hls/Kv7l5lK5edlT6ZlYI4Yu/3276694691/QmeRCb52_djB8NSeEtCkHQ/1710147908/2020/10/0fy051fcrkQhxnv5XqkB_360.mp4/index-v1-a1.m3u8
+276694691/QmeRCb52_djB8NSeEtCkHQ/1710147908/2020/10/0fy051fcrkQhxnv5XqkB_360.mp4/index-v1-a1.m3u8
