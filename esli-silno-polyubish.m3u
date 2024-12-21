@@ -1,11 +1,11 @@
 ﻿#EXTM3U
 
 #EXTINF:0 group-title="Между нами девочками",s01e09 Между нами, девочками
-https://chlorine.mediaaly.pro/tvseries/36cf0b0b546dc40ce15f451b6632dae265e6b22c/8a02517747e7b9cf643b37df1e13b1be:2024122121/720.mp4:hls:manifest.m3u8
+https://red.mediaaly.pro/tvseries/36cf0b0b546dc40ce15f451b6632dae265e6b22c/8a02517747e7b9cf643b37df1e13b1be:2024122121/480.mp4:hls:manifest.m3u8
 #EXTINF:0 group-title="Между нами девочками",s01e10 Между нами, девочками
-https://scandium.mediaaly.pro/tvseries/b4e26f54ad33792f9024b30818c3d7f0a9261a06/2e93b81e1610631e441ab0ae3fc51b57:2024122121/720.mp4:hls:manifest.m3u8
+https://indigo.mediaaly.pro/tvseries/b4e26f54ad33792f9024b30818c3d7f0a9261a06/2e93b81e1610631e441ab0ae3fc51b57:2024122121/480.mp4:hls:manifest.m3u8
 #EXTINF:0 group-title="Между нами девочками",s01e11 Между нами, девочками
-https://red.mediaaly.pro/tvseries/1b1bfa22581eefea45bdc04627b1e527401675a9/c1627b0bbddaa4f528b9b665a84b6d71:2024122121/720.mp4:hls:manifest.m3u8
+https://red.mediaaly.pro/tvseries/1b1bfa22581eefea45bdc04627b1e527401675a9/c1627b0bbddaa4f528b9b665a84b6d71:2024122121/480.mp4:hls:manifest.m3u8
 
 #EXTINF:0 group-title="Отчаянные домохозяйки",Отч.домохоз.s01e01.Тайны Вистерия Лейн (Пилот)
 https://s5.miradres.com/content/stream/films/desperate.housewives.s01e01.pilot.1080p.amzn.webdl.rus.eng_benderbest_543973/hls/720/index.m3u8
