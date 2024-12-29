@@ -1,24 +1,9 @@
 ﻿#EXTM3U
 
-#EXTINF:0 group-title="Ненавижу Рождество",s02e06 Ненавижу Рождество
-https://nl03.cdnsqu.com/s/FHRqbjLdKK_7ywUr6uDRaCkkFBQUFBQUFBQUFBUk1vSWxBUG9BUE9SR09qRT0.zv8lB05KfeKlFuebvCiGwCpLJ4QkbfbWpvG-DA/Odio-Il-Natale-2022-Ita/s02e06_480.mp4
-
-#EXTINF:0 group-title="Дэш и Лили",s01e01 Дэш и Лили
-https://chache09.werkecdn.me/s/FHvtsDrin9-9dZ62tk-v3rAEFBQUFBQUFBQUFBUk1vSlNBUG9BUE9SR09qRT0.1iH2u7G74hBwGq0BbHvGOZaKI_boKt7I9JTrhg/Dash-And-Lily-2020-USA-NewStudio/s01e01_480.mp4
-#EXTINF:0 group-title="Дэш и Лили",s01e02 Дэш и Лили
-https://chache09.werkecdn.me/s/FHvtsDrin9-9dZ62tk-v3rAEFBQUFBQUFBQUFBUk1vSlNBUG9BUE9SR09qRT0.1iH2u7G74hBwGq0BbHvGOZaKI_boKt7I9JTrhg/Dash-And-Lily-2020-USA-NewStudio/s01e02_480.mp4
-#EXTINF:0 group-title="Дэш и Лили",s01e03 Дэш и Лили
-https://chache09.werkecdn.me/s/FHvtsDrin9-9dZ62tk-v3rAEFBQUFBQUFBQUFBUk1vSlNBUG9BUE9SR09qRT0.1iH2u7G74hBwGq0BbHvGOZaKI_boKt7I9JTrhg/Dash-And-Lily-2020-USA-NewStudio/s01e03_480.mp4
-#EXTINF:0 group-title="Дэш и Лили",s01e04 Дэш и Лили
-https://chache09.werkecdn.me/s/FHvtsDrin9-9dZ62tk-v3rAEFBQUFBQUFBQUFBUk1vSlNBUG9BUE9SR09qRT0.1iH2u7G74hBwGq0BbHvGOZaKI_boKt7I9JTrhg/Dash-And-Lily-2020-USA-NewStudio/s01e04_480.mp4
-#EXTINF:0 group-title="Дэш и Лили",s01e05 Дэш и Лили
-https://chache09.werkecdn.me/s/FHvtsDrin9-9dZ62tk-v3rAEFBQUFBQUFBQUFBUk1vSlNBUG9BUE9SR09qRT0.1iH2u7G74hBwGq0BbHvGOZaKI_boKt7I9JTrhg/Dash-And-Lily-2020-USA-NewStudio/s01e05_480.mp4
-#EXTINF:0 group-title="Дэш и Лили",s01e06 Дэш и Лили
-https://chache09.werkecdn.me/s/FHvtsDrin9-9dZ62tk-v3rAEFBQUFBQUFBQUFBUk1vSlNBUG9BUE9SR09qRT0.1iH2u7G74hBwGq0BbHvGOZaKI_boKt7I9JTrhg/Dash-And-Lily-2020-USA-NewStudio/s01e06_480.mp4
-#EXTINF:0 group-title="Дэш и Лили",s01e07 Дэш и Лили
-https://chache09.werkecdn.me/s/FHvtsDrin9-9dZ62tk-v3rAEFBQUFBQUFBQUFBUk1vSlNBUG9BUE9SR09qRT0.1iH2u7G74hBwGq0BbHvGOZaKI_boKt7I9JTrhg/Dash-And-Lily-2020-USA-NewStudio/s01e07_480.mp4
-#EXTINF:0 group-title="Дэш и Лили",s01e08 Дэш и Лили
-https://chache09.werkecdn.me/s/FHvtsDrin9-9dZ62tk-v3rAEFBQUFBQUFBQUFBUk1vSlNBUG9BUE9SR09qRT0.1iH2u7G74hBwGq0BbHvGOZaKI_boKt7I9JTrhg/Dash-And-Lily-2020-USA-NewStudio/s01e08_480.mp4
+#EXTINF:0 group-title="Новогодние фильмы",Новогодний шеф
+https://nl101.cdnsqu.com/s/FH1qwY4OXnIDIPGQpFgDaX4kFBQUFBQUFBQUFBUk1tUDBndm9BUE9SR09qRT0.jhdbK3Vca_OxROTWAxj0pJv1ZUWg6BTkEvL2UQ/hd_45/Novogodniy-shef-2023_480.mp4
+#EXTINF:0 group-title="Новогодние фильмы",Одна дома
+https://nl104.cdnsqu.com/s/FHCHgSd8yVkNTIyLlze54UmUFBQUFBQUFBQUFBUk1tTUZ3L29BUE9SR09qRT0.dcLJhK4DohTcTRTjake-4BlwzoVRjQ4Uj09Bvw/hd_45/Odna.doma.2023.WEB-DL.1080p_480.mp4
 #EXTINF:0 group-title="Le Spectacle Musical",Legende du roi Arthur
 ftp://195.78.100.163:21/Music Video/Legende du roi Arthur/Legende du roi Arthur.mkv
 #EXTINF:0 group-title="Le Spectacle Musical",Les 3 Mousquetaires
