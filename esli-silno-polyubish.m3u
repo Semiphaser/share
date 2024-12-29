@@ -1,9 +1,17 @@
 ﻿#EXTM3U
 
+#EXTINF:0 group-title="Фильмы",Маме снова 17
+https://chache09.werkecdn.me/s/FH63grgRpAwnKsajR5f9MGaUFBQUFBQUFBQUFBUk1uTnp3L29BUE9SR09qRT0.yk2T5ULEvgkBIRNx_RP4gkbruyighb9oXQDlyA/UHD_1212/Mame.snova.17.2024.WEB-DL.1080p.ExKinoRay_480.mp4
+#EXTINF:0 group-title="Фильмы",Плейбой под прикрытием
+https://nl202.cdnsqu.com/s/FH-4jSilWukG0cWx7TPUC1pkFBQUFBQUFBQUFBUk1uTnpBUG9BUE9SR09qRT0.pZv4VJLM1cczs9g9Qbx04gsKUf9vY9b4jm9XXA/hd_30_nl107/Nicky.Larson.et.le.parfum.de.Cupidon.2018.BDRip.1080p_480.mp4
+#EXTINF:0 group-title="Фильмы",SuperАлиби
+https://nl205.cdnsqu.com/s/FHaY6sO3B5DOo-QiV-pN2aN0FBQUFBQUFBQUFBUk1uTlRCZm9BUE9SR09qRT0.6ZYucDqT3wRdQq4_OGypZd7ueJYNJUlvnd-48w/HD_45/Alibi.com.2017.BDRip.1080p_480.mp4
+
 #EXTINF:0 group-title="Новогодние фильмы",Новогодний шеф
 https://nl101.cdnsqu.com/s/FH1qwY4OXnIDIPGQpFgDaX4kFBQUFBQUFBQUFBUk1tUDBndm9BUE9SR09qRT0.jhdbK3Vca_OxROTWAxj0pJv1ZUWg6BTkEvL2UQ/hd_45/Novogodniy-shef-2023_480.mp4
 #EXTINF:0 group-title="Новогодние фильмы",Одна дома
 https://nl104.cdnsqu.com/s/FHCHgSd8yVkNTIyLlze54UmUFBQUFBQUFBQUFBUk1tTUZ3L29BUE9SR09qRT0.dcLJhK4DohTcTRTjake-4BlwzoVRjQ4Uj09Bvw/hd_45/Odna.doma.2023.WEB-DL.1080p_480.mp4
+
 #EXTINF:0 group-title="Le Spectacle Musical",Legende du roi Arthur
 ftp://195.78.100.163:21/Music Video/Legende du roi Arthur/Legende du roi Arthur.mkv
 #EXTINF:0 group-title="Le Spectacle Musical",Les 3 Mousquetaires
