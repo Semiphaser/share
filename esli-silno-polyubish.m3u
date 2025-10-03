@@ -1,26 +1,13 @@
 ﻿#EXTM3U
 
-#EXTINF:0 group-title="Зимородок",s03e100 Зимородок
-https://b-401.fotpro135alto.com/stream2/b-401/ceaee78f50a39a67921c216b5f62b442/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVVdXTHlEMOpXRy0kMZhnTEZUaOpWRw0EVWlmWXJFaOdkWt9ERNlnT61UP:1748712951:194.242.96.186:dff72b36771787027f18c094c07a10ac9b9e1108bafb165e83867d623abb57ff/480/index.m3u8
-#EXTINF:0 group-title="Зимородок",s03e101 Зимородок
-https://b-401.fotpro135alto.com/stream2/b-401/ceaee78f50a39a67921c216b5f62b442/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21keZJjTUxmaNp2YwklaBFTTqVUNPdURyklMZJTTHJVaaRVS35EVopmTUVUP:1748713233:194.242.96.186:1ea90ce6599ba227254a0f69600791726ac91f941878f878923339137f5d6548/480/index.m3u8
-
-#EXTINF:0 group-title="Пособие для юных леди",s01e01 Пособие для юных леди
-https://nl105.cdnsqu.com/s/FHfkWVD2NUz4OmLNC0AhVxgUFBQUFBQUFBQUFBUjR0SUR3L29BTEM4R3F6RT0.r0pT0vXs8YGQJl7fHr2uP8LklJqgJYGSz8pMQg/Ladys-Companion-ISP-25-HDRezka/s01e01_480.mp4
-#EXTINF:0 group-title="Пособие для юных леди",s01e02 Пособие для юных леди
-https://nl105.cdnsqu.com/s/FHfkWVD2NUz4OmLNC0AhVxgUFBQUFBQUFBQUFBUjR0SUR3L29BTEM4R3F6RT0.r0pT0vXs8YGQJl7fHr2uP8LklJqgJYGSz8pMQg/Ladys-Companion-ISP-25-HDRezka/s01e02_480.mp4
-#EXTINF:0 group-title="Пособие для юных леди",s01e03 Пособие для юных леди
-https://nl105.cdnsqu.com/s/FHfkWVD2NUz4OmLNC0AhVxgUFBQUFBQUFBQUFBUjR0SUR3L29BTEM4R3F6RT0.r0pT0vXs8YGQJl7fHr2uP8LklJqgJYGSz8pMQg/Ladys-Companion-ISP-25-HDRezka/s01e03_480.mp4
-#EXTINF:0 group-title="Пособие для юных леди",s01e04 Пособие для юных леди
-https://nl105.cdnsqu.com/s/FHfkWVD2NUz4OmLNC0AhVxgUFBQUFBQUFBQUFBUjR0SUR3L29BTEM4R3F6RT0.r0pT0vXs8YGQJl7fHr2uP8LklJqgJYGSz8pMQg/Ladys-Companion-ISP-25-HDRezka/s01e04_480.mp4
-#EXTINF:0 group-title="Пособие для юных леди",s01e05 Пособие для юных леди
-https://nl105.cdnsqu.com/s/FHfkWVD2NUz4OmLNC0AhVxgUFBQUFBQUFBQUFBUjR0SUR3L29BTEM4R3F6RT0.r0pT0vXs8YGQJl7fHr2uP8LklJqgJYGSz8pMQg/Ladys-Companion-ISP-25-HDRezka/s01e05_480.mp4
-#EXTINF:0 group-title="Пособие для юных леди",s01e06 Пособие для юных леди
-https://nl105.cdnsqu.com/s/FHfkWVD2NUz4OmLNC0AhVxgUFBQUFBQUFBQUFBUjR0SUR3L29BTEM4R3F6RT0.r0pT0vXs8YGQJl7fHr2uP8LklJqgJYGSz8pMQg/Ladys-Companion-ISP-25-HDRezka/s01e06_480.mp4
-#EXTINF:0 group-title="Пособие для юных леди",s01e06 Пособие для юных леди
-https://nl105.cdnsqu.com/s/FHfkWVD2NUz4OmLNC0AhVxgUFBQUFBQUFBQUFBUjR0SUR3L29BTEM4R3F6RT0.r0pT0vXs8YGQJl7fHr2uP8LklJqgJYGSz8pMQg/Ladys-Companion-ISP-25-HDRezka/s01e07_480.mp4
-#EXTINF:0 group-title="Пособие для юных леди",s01e06 Пособие для юных леди
-https://nl105.cdnsqu.com/s/FHfkWVD2NUz4OmLNC0AhVxgUFBQUFBQUFBQUFBUjR0SUR3L29BTEM4R3F6RT0.r0pT0vXs8YGQJl7fHr2uP8LklJqgJYGSz8pMQg/Ladys-Companion-ISP-25-HDRezka/s01e08_480.mp4
+#EXTINF:0 group-title="Ищу жену с ребёнком",s01e100 Ищу жену с ребёнком s01e01
+https://nob34851zau.redcdn.org/hls8/mpegts/Kv7l5lK5edlT6ZlYI4Yu/720/3270664950/ly8HNdJ-AjLCb7NXBgn7tA/1759582782/2021/1/fsO2hcVvq58Iu6jwuavS_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Ищу жену с ребёнком",s01e100 Ищу жену с ребёнком s01e02
+https://nob34851zau.redcdn.org/hls8/mpegts/Kv7l5lK5edlT6ZlYI4Yu/720/3270664950/w3UK4lzyjeKHOMCnP7KKyA/1759582782/2021/1/aIBZtlqyh54xWW9YQxm0_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Ищу жену с ребёнком",s01e100 Ищу жену с ребёнком s01e03
+https://suw76517rau.redcdn.org/hls8/mpegts/Kv7l5lK5edlT6ZlYI4Yu/721/3270664950/YtnYeTBq9j_FCn7_J55dxw/1759582782/2021/1/xqWvWzL4fgk5TpFxgN1Q_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Ищу жену с ребёнком",s01e100 Ищу жену с ребёнком s01e04
+https://vei88746teb.redcdn.org/hls8/mpegts/Kv7l5lK5edlT6ZlYI4Yu/724/3270664950/lXALXa02MAkJrMCGB7gStQ/1759582782/2021/1/E5HZkIhPVNuT1spqYJFR_720.mp4/index-v1-a1.m3u8
 
 #EXTINF:0 group-title="Фильмы",Ёлки 11
 https://chache09.werkecdn.me/s/FHXEw-jmbkWDyix2m7hT3XikFBQUFBQUFBQUFBUlVsTEN3L29BTEM4R3F6RT0.1m0OgVtzHGjkQ6cHlPcvMvArpgq1X0bxQFBsPA/UHD_1212/Elki.11.2024.WEB-DL.1080p.ExKinoRay_480.mp4
@@ -457,3 +444,4 @@ https://s2.miradres.com/content/stream/films/22_give_me_the_blame_hd/hls/720/ind
 #EXTINF:0 group-title="Отчаянные домохозяйки",s08e23-Последний штрих
 https://s2.miradres.com/content/stream/films/23_finishing_the_hat_hd/hls/720/index.m3u8
 276694691/QmeRCb52_djB8NSeEtCkHQ/1710147908/2020/10/0fy051fcrkQhxnv5XqkB_360.mp4/index-v1-a1.m3u8
+
