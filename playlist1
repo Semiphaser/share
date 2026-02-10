@@ -1,1 +1,58 @@
+﻿#EXTM3U
+
+#EXTINF:0 group-title="Лысый нянь",Лысый нянь
+https://foq81686zic.redcdn.org/hls8/mpegts/Kv7l5lK5edlT6ZlYI4Yu/855/1506887944/9ABCnV2uLUWb-37kRVFJlA/1770838038/2026/1/PMp6rKTlLVfFvUQUQ1Ph_720.mp4/index-v1-a1.m3u8
+
+#EXTINF:0 group-title="Семья в аренду",Семья в аренду
+https://sat76998pat.redcdn.org/hls8/mpegts/Kv7l5lK5edlT6ZlYI4Yu/969/1506887944/vz3nL5J66bI6vDoL088anQ/1770837904/2026/1/vetvpLgDYmPyGFd2y2mt_720.mp4/index-v1-a1.m3u8
+
+#EXTINF:0 group-title="Вечность",Вечность
+https://pet52187moc.redcdn.org/hls8/mpegts/Kv7l5lK5edlT6ZlYI4Yu/843/1506887944/aOMPpLwnRBVV8ZHi_pzNSQ/1770837851/2026/1/Df4lLOfH5W2d2Z4RIpxM_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Вечность 2",Вечность 2
+https://cfnd.cinemap.cc/1770774160-2D1prlvh5LiXvryItlv1FXVHyL93AuIUHKP9BhBn4gY%3D/movies/ad67f7adad87ef43d149b29228877a84f3ab62fd/413a220b530888559b1ed6250c9e3522:2026021101/480.mp4:hls:manifest.m3u8
+
+#EXTINF:0 group-title="Два мира- одно желание",Два мира, одно желание
+https://cfnd.cinemap.cc/1770774219-PbgZvfm%2FY4RpybWQdjic4bRI2i9fDyVVvqgbd5ZLL60%3D/movies/17ebdc1378b091cf37ed524d7da5849ede799da1/e8388c155e334c3894be6007781cefdf:2026021101/480.mp4:hls:manifest.m3u8
+
+#EXTINF:0 group-title="Ёлки 12",Ёлки 12
+https://hiv00525soq.redcdn.org/hls8/mpegts/Kv7l5lK5edlT6ZlYI4Yu/852/1506887944/JNYScvJcTVAdeL2GB5GuZg/1770837791/2026/1/5qYsQbzQ36gsgWo69Bk4_720.mp4/index-v1-a1.m3u8
+
+
+#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e15
+https://vod-k2307-kbp.1plus1.video/vod/1768676405/ot_kjmypYgmFpblDBFoXCQ/202403/a/a4/a42724e34456974ab33c138ffacf6de20fc476abeeb13ad2a23f80a5ebedaefa.smil/chunklist_b1728000.m3u8
+#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e16
+https://vod-k2307-kbp.1plus1.video/vod/1768676424/KvZPqacP_WhdRAmshqzapQ/202403/5/5f/5f26d82f11bec84911bd775ed84cf3fdc36f8669f6d20816afc19ef6cac5e4d7.smil/chunklist_b1728000.m3u8
+#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e17
+https://vod-k2313-kbp.1plus1.video/vod/1768846711/y7_niPXZViXXXGqM6x46HQ/202403/c/c3/c37b0862f2cca3fe76e70418aca29a438beac308a953c23bd469faa8f2f4c924.smil/chunklist_b1728000.m3u8
+#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e18
+https://vod-k2310-kbp.1plus1.video/vod/1768846937/-IvnUXtoFd_4lZmlwm5twg/202403/3/37/371d1ff14d0a992d8770fac2dd4ff82c296b21043b46871a30da706d02a7103b.smil/chunklist_b1728000.m3u8
+#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e19
+https://vod-k2305-kbp.1plus1.video/vod/1768846963/mUanIMS8hjSWH_NFWdI3zA/202403/7/71/71f9480a09fc5588a2863677e5341521bf658b30a8591d1b29249feae9de9aca.smil/chunklist_b1728000.m3u8
+#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e20
+https://vod-k2306-kbp.1plus1.video/vod/1768847037/oZ22m9rNtBJAEQotbG513A/202403/9/9b/9b48932ae16008482b9cbcd74f58ce45e403c42671df8d039fb4c66550e29eb3.smil/chunklist_b1728000.m3u8
+#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e21
+https://vod-k2307-kbp.1plus1.video/vod/1768847053/KLRI9aKFzm9ltERvJCPPZw/202403/9/9a/9a20da1ddae4d6d89ecca8f1214c322c5df1ffb461ad25ed5686f3f3d010a898.smil/chunklist_b1728000.m3u8
+#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e22
+https://vod-k2301-kbp.1plus1.video/vod/1768847068/Yp15IZpO2RuD4N0mEyhlZg/202403/8/87/872fc693b6758c268c5bc9c0d6b6ab94a7d72276c3a9fb08e9df5b88a5c5275c.smil/chunklist_b1728000.m3u8
+#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e23
+https://vod-k2310-kbp.1plus1.video/vod/1768934411/DxcPsKG2FQNAN6F0Z-ABqg/202403/b/bf/bfa8ad9ba0da8ee6407b3d5eb77d4232dd92f9de4205e2102242e4e3eaf23a86.smil/chunklist_b1728000.m3u8
+#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e24
+https://vod-k2310-kbp.1plus1.video/vod/1768934440/F4a0a0NpKYXQg9qlLP1NFw/202403/f/fc/fc8623cf4243052de899a5b6d487f08b87efd24c1fe0f935f4defb3cfa2a9a20.smil/chunklist_b1728000.m3u8
+#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e25
+https://vod-k2308-kbp.1plus1.video/vod/1769023926/zdKcdGZVsZODn6o6WpXh0w/202403/e/ee/ee8501a8440051721e9fbeabf760361977ce3dca721d54087c2b238386beca19.smil/chunklist_b1728000.m3u8
+#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e26
+https://vod-k2312-kbp.1plus1.video/vod/1769024026/Sw3kNrrSKVwM51BQr6_sXQ/202403/a/a2/a2c1e71d7ab0630ad32f217f77a70c00db8433d3b25f335ddbb100d5ee9a4a18.smil/chunklist_b1728000.m3u8
+#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e27
+https://vod-k2312-kbp.1plus1.video/vod/1769024042/toou5BU-K5Kncu8_lRNmjw/202403/b/b6/b63e64c0c588c8751cc25394fe2591f7aad9432f395234928269402be9d26680.smil/chunklist_b1728000.m3u8
+#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e28
+https://vod-k2303-kbp.1plus1.video/vod/1769024056/zeFTyw4hX9kJpwuCP3p1pA/202403/c/cd/cdb6ce7af261e49a656a3e1f1686503b6d2ae50804333ce08d5f478dd636224e.smil/chunklist_b1728000.m3u8
+#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e29
+https://vod-k2311-kbp.1plus1.video/vod/1769024069/-bwG2g2mOClOh9iIo3srpQ/202403/e/e3/e305abf7bed0f8e56195a37e396607e191c0f40f32b807f8aafea7aefc894ba7.smil/chunklist_b1728000.m3u8
+#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e30
+https://vod-k2304-kbp.1plus1.video/vod/1769024094/NpRZbIoYgfiZ0TEi4T_CAg/202403/e/e4/e4f896ff1d2c081d4c64035d84f03bf967438fc20b2662ea56ae84455825acdb.smil/chunklist_b1728000.m3u8
+#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e31
+https://vod-k2314-kbp.1plus1.video/vod/1769024107/UEPC6w-1QILQONavGzpWeQ/202403/9/96/968662a910415d422c5d49075713083a5e0affe5a7ffb941604ee2cb1f397370.smil/chunklist_b1728000.m3u8
+#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e32
+https://vod-k2301-kbp.1plus1.video/vod/1769110849/8X0a1Gn_Bxt7b8NBfQZwZw/202404/e/ea/eab8c86897aaa51107984c928f7eaaaf53c830cddb19ebfcec53270891b0c837.smil/chunklist_b1728000.m3u8
+
 
