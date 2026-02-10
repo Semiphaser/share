@@ -1,7 +1,10 @@
 #EXTM3U
 
+#EXTINF:0 group-title="Matlock",Matlock
+https://fuv52152suw.redcdn.org/hls8/mpegts/Kv7l5lK5edlT6ZlYI4Yu/885/3270664950/M1thMvPXd50yHi0Pifo4Ow/1770848988/2026/1/zOzghbHJdJlsE7K99tz4_720.mp4/master-v1-a1.m3u8
+
 #EXTINF:0 group-title="Лысый нянь",Лысый нянь
-https://foq81686zic.redcdn.org/hls8/mpegts/Kv7l5lK5edlT6ZlYI4Yu/855/1506887944/9ABCnV2uLUWb-37kRVFJlA/1770838038/2026/1/PMp6rKTlLVfFvUQUQ1Ph_720.mp4:hls:manifest.m3u8
+https://foq81686zic.redcdn.org/hls8/mpegts/Kv7l5lK5edlT6ZlYI4Yu/855/1506887944/9ABCnV2uLUWb-37kRVFJlA/1770838038/2026/1/PMp6rKTlLVfFvUQUQ1Ph_720.mp4/master-v1-a1.m3u8
 
 #EXTINF:0 group-title="Семья в аренду",Семья в аренду
 https://sat76998pat.redcdn.org/hls8/mpegts/Kv7l5lK5edlT6ZlYI4Yu/969/1506887944/vz3nL5J66bI6vDoL088anQ/1770837904/2026/1/vetvpLgDYmPyGFd2y2mt_720.mp4
