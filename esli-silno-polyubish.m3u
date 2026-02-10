@@ -1,38 +1,19 @@
 ﻿#EXTM3U
 
-#EXTINF:0 group-title="Ціна втечі",Ціна втечі s01e01
-https://vod-k2301-kbp.1plus1.video/vod/1770748324/nO54N6G4UxlQeATJdWPKkg/202402/6/67/67e4d309110a8f7dd9e1fea2291f85d1aa9c939195033b62247673b3bfbc130f.smil/chunklist_b1728000.m3u8
-#EXTINF:0 group-title="Ціна втечі",Ціна втечі s01e02
-https://vod-k2312-kbp.1plus1.video/vod/1770748631/4utdtV8niZBsNUIp768Bfg/202402/5/50/50fbe0b5ee6f36b94794d2f555b50d38781b7e515eeb3a6ddb18dfa411e8a45b.smil/chunklist_b1728000.m3u8
-#EXTINF:0 group-title="Ціна втечі",Ціна втечі s01e03
-https://vod-k2303-kbp.1plus1.video/vod/1770748648/FXS1X6yBQwG2nwI_MZ7OzQ/202402/a/a4/a4d3fb66b0e85c7447ab11a97664819619c62d43811e67d0acb04411ab9c8d81.smil/chunklist_b1728000.m3u8
-#EXTINF:0 group-title="Ціна втечі",Ціна втечі s01e04
-https://vod-k2311-kbp.1plus1.video/vod/1770748662/ReEi1UtpPDtEK2zT4_UYyg/202402/3/32/32f9a6561b27d2d3e1e5ed2e40ccdffdb25cc579a0fde51254c05ba754898853.smil/chunklist_b1728000.m3u8
-#EXTINF:0 group-title="Ціна втечі",Ціна втечі s01e05
-https://vod-k2308-kbp.1plus1.video/vod/1770748676/qBBA3hHJskJIwmLejvQqmQ/202402/f/f0/f08be646dab31d46f0fb061f61589fe23a985179fd8680d4f596f0f8cda6a3fb.smil/chunklist_b1728000.m3u8
-#EXTINF:0 group-title="Ціна втечі",Ціна втечі s01e06
-https://vod-k2308-kbp.1plus1.video/vod/1770748690/4UNMC_iBjl6Emm3CB_jf6w/202402/1/15/150c63a2159384dfed945c10c411ff07d43ea946e784e3ad0038a70bc2371850.smil/chunklist_b1728000.m3u8
-#EXTINF:0 group-title="Ціна втечі",Ціна втечі s01e07
-https://vod-k2304-kbp.1plus1.video/vod/1770748704/HICmU1HKvsTN_nc0MP_UUw/202402/1/11/110594200883e15e030548df2e494a17d9400bb85eb6c0f4eff16bfeed5c18e3.smil/chunklist_b1728000.m3u8
-#EXTINF:0 group-title="Ціна втечі",Ціна втечі s01e08
-https://vod-k2307-kbp.1plus1.video/vod/1770748728/4ckrSKTuxhchBqp5Gf9DAQ/202402/7/7b/7bb0495fd9100e9b1708a8fe8bc8b709af5f36aab06eab2ef5ff6de5aa1a5653.smil/chunklist_b1728000.m3u8
-#EXTINF:0 group-title="Ціна втечі",Ціна втечі s01e09
-https://vod-k2309-kbp.1plus1.video/vod/1770748742/e8CIbTAMVXnFIx-b7V0EFg/202402/5/5c/5ca78f508a9f65837ded5407e16bc5cacac48cebd092b1561325836ef8f16673.smil/chunklist_b1728000.m3u8
-#EXTINF:0 group-title="Ціна втечі",Ціна втечі s01e10
-https://vod-k2308-kbp.1plus1.video/vod/1770748757/PWzKfuSI9qVb0r3u9otnKA/202402/a/a4/a4ca8390d2d06215bd7a7065bd058bb65280c9e76b0d47d1c88c21bf3ac0f9e6.smil/chunklist_b1728000.m3u8
-
+#EXTINF:0 group-title="Лысый нянь",Лысый нянь
+https://foq81686zic.redcdn.org/hls8/mpegts/Kv7l5lK5edlT6ZlYI4Yu/855/1506887944/9ABCnV2uLUWb-37kRVFJlA/1770838038/2026/1/PMp6rKTlLVfFvUQUQ1Ph_720.mp4/index-v1-a1.m3u8
 
 #EXTINF:0 group-title="Семья в аренду",Семья в аренду
-https://vah74521rif.redcdn.org/hls8/mpegts/Kv7l5lK5edlT6ZlYI4Yu/959/3270664950/mA9yjRyXmtm4YsIwWQNEFg/1770639681/2026/1/vetvpLgDYmPyGFd2y2mt_720.mp4/index-v1-a1.m3u8
+https://sat76998pat.redcdn.org/hls8/mpegts/Kv7l5lK5edlT6ZlYI4Yu/969/1506887944/vz3nL5J66bI6vDoL088anQ/1770837904/2026/1/vetvpLgDYmPyGFd2y2mt_720.mp4/index-v1-a1.m3u8
 
 #EXTINF:0 group-title="Вечность",Вечность
-https://har35622paw.redcdn.org/hls8/mpegts/Kv7l5lK5edlT6ZlYI4Yu/863/3270664950/a8f8GSSH5IpvdxzYiIVgnA/1770639917/2026/1/Df4lLOfH5W2d2Z4RIpxM_720.mp4/index-v1-a1.m3u8
+https://pet52187moc.redcdn.org/hls8/mpegts/Kv7l5lK5edlT6ZlYI4Yu/843/1506887944/aOMPpLwnRBVV8ZHi_pzNSQ/1770837851/2026/1/Df4lLOfH5W2d2Z4RIpxM_720.mp4/index-v1-a1.m3u8
 
 #EXTINF:0 group-title="Два мира, одно желание",Два мира, одно желание
-https://pet52187moc.redcdn.org/hls8/mpegts/Kv7l5lK5edlT6ZlYI4Yu/843/3270664950/PkK2W8j10xclMFp_2sp2iA/1770640035/2026/1/6ilValGZEKu1R8U4BZpU_720.mp4/index-v1-a1.m3u8
+https://lek19320sui.redcdn.org/hls8/mpegts/Kv7l5lK5edlT6ZlYI4Yu/844/1506887944/k_-RTyJP0hbr4iuasTXtkQ/1770837721/2026/1/6ilValGZEKu1R8U4BZpU_720.mp4/index-v1-a1.m3u8
 
 #EXTINF:0 group-title="Ёлки 12",Ёлки 12
-https://moc15326mar.redcdn.org/hls8/mpegts/Kv7l5lK5edlT6ZlYI4Yu/854/3270664950/CH6w2UAUAKqi53WiJ3Iwcg/1770640163/2026/1/5qYsQbzQ36gsgWo69Bk4_720.mp4/index-v1-a1.m3u8
+https://hiv00525soq.redcdn.org/hls8/mpegts/Kv7l5lK5edlT6ZlYI4Yu/852/1506887944/JNYScvJcTVAdeL2GB5GuZg/1770837791/2026/1/5qYsQbzQ36gsgWo69Bk4_720.mp4/index-v1-a1.m3u8
 
 
 #EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e15
@@ -543,6 +524,7 @@ https://s2.miradres.com/content/stream/films/22_give_me_the_blame_hd/hls/720/ind
 #EXTINF:0 group-title="Отчаянные домохозяйки",s08e23-Последний штрих
 https://s2.miradres.com/content/stream/films/23_finishing_the_hat_hd/hls/720/index.m3u8
 276694691/QmeRCb52_djB8NSeEtCkHQ/1710147908/2020/10/0fy051fcrkQhxnv5XqkB_360.mp4/index-v1-a1.m3u8
+
 
 
 
