@@ -23,20 +23,21 @@ https://hiv00525soq.redcdn.org/hls8/mpegts/Kv7l5lK5edlT6ZlYI4Yu/852/3270664950/T
 #EXTINF:0 group-title="Ёлки 12",Ёлки 12
 https://moc15326mar.redcdn.org/hls8/mpegts/Kv7l5lK5edlT6ZlYI4Yu/854/3270664950/03YJqfkZUFCpW6GVuL7G8A/1770908934/2026/1/5qYsQbzQ36gsgWo69Bk4_720.mp4/index-v1-a1.m3u8
 
-#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e15
-https://vod-k2307-kbp.1plus1.video/vod/1768676405/ot_kjmypYgmFpblDBFoXCQ/202403/a/a4/a42724e34456974ab33c138ffacf6de20fc476abeeb13ad2a23f80a5ebedaefa.smil/chunklist_b1728000.m3u8
-#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e16
-https://vod-k2307-kbp.1plus1.video/vod/1768676424/KvZPqacP_WhdRAmshqzapQ/202403/5/5f/5f26d82f11bec84911bd775ed84cf3fdc36f8669f6d20816afc19ef6cac5e4d7.smil/chunklist_b1728000.m3u8
-#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e17
-https://vod-k2313-kbp.1plus1.video/vod/1768846711/y7_niPXZViXXXGqM6x46HQ/202403/c/c3/c37b0862f2cca3fe76e70418aca29a438beac308a953c23bd469faa8f2f4c924.smil/chunklist_b1728000.m3u8
-#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e18
-https://vod-k2310-kbp.1plus1.video/vod/1768846937/-IvnUXtoFd_4lZmlwm5twg/202403/3/37/371d1ff14d0a992d8770fac2dd4ff82c296b21043b46871a30da706d02a7103b.smil/chunklist_b1728000.m3u8
-#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e19
-https://vod-k2305-kbp.1plus1.video/vod/1768846963/mUanIMS8hjSWH_NFWdI3zA/202403/7/71/71f9480a09fc5588a2863677e5341521bf658b30a8591d1b29249feae9de9aca.smil/chunklist_b1728000.m3u8
-#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e20
-https://vod-k2306-kbp.1plus1.video/vod/1768847037/oZ22m9rNtBJAEQotbG513A/202403/9/9b/9b48932ae16008482b9cbcd74f58ce45e403c42671df8d039fb4c66550e29eb3.smil/chunklist_b1728000.m3u8
-#EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e21
-https://vod-k2307-kbp.1plus1.video/vod/1768847053/KLRI9aKFzm9ltERvJCPPZw/202403/9/9a/9a20da1ddae4d6d89ecca8f1214c322c5df1ffb461ad25ed5686f3f3d010a898.smil/chunklist_b1728000.m3u8
+#EXTINF:0 group-title="Реванш", Реванш s01e01
+https://vod-k2304-kbp.1plus1.video/vod/1771961195/QJ5EmQ8bDRxCatLx3nwzQA/202410/b/bf/bfce70ee6a698429806bf1cff902668b22161c1dcc856f8ee70c01477bbd3302.smil/chunklist_b3928000_cfMjAyNDEwL2IvYmYvYmZjZTcwZWU2YTY5ODQyOTgwNmJmMWNmZjkwMjY2OGIyMjE2MWMxZGNjODU2ZjhlZTcwYzAxNDc3YmJkMzMwMi82ZmZiNGZjZmQ0OTc0YWJiMTdjNTM3ZDcwYzQ2ZWU5ZS50dG1s.m3u8
+#EXTINF:0 group-title="Реванш", Реванш s01e02
+https://vod-k2312-kbp.1plus1.video/vod/1771961429/ag9bWSx63MxCcqJJpAlE7A/202410/a/a8/a8bd6c3e18618c12c427ec6f03b1923f13206c98635130e8f0638b74b40e2c84.smil/chunklist_b3928000_cfMjAyNDEwL2EvYTgvYThiZDZjM2UxODYxOGMxMmM0MjdlYzZmMDNiMTkyM2YxMzIwNmM5ODYzNTEzMGU4ZjA2MzhiNzRiNDBlMmM4NC80Mzc2YzFiYmQyZjY3NDUyYWFlYzg3MDY0ZWJjMWFjMi50dG1s.m3u8
+#EXTINF:0 group-title="Реванш", Реванш s01e03
+https://vod-k2312-kbp.1plus1.video/vod/1771961452/XHZKPhsYN3H75VcQypI4QQ/202410/c/c2/c2474b0925331104b209de388def3176f4b1a1d113f9864f4ee809e01652aea1.smil/chunklist_b3928000_cfMjAyNDEwL2MvYzIvYzI0NzRiMDkyNTMzMTEwNGIyMDlkZTM4OGRlZjMxNzZmNGIxYTFkMTEzZjk4NjRmNGVlODA5ZTAxNjUyYWVhMS85ODNkYWQ3MGRmYmM2YTk1ZWViNDFhYjQ5ZjMyMGE4Yi50dG1s.m3u8
+#EXTINF:0 group-title="Реваншй", Реванш s01e04
+https://vod-k2308-kbp.1plus1.video/vod/1771961467/pMfAQxAtYY2XrAwyYHTATA/202410/0/03/0359dee3a913417408903094db474f0876d27f5b5ecf34b8c4679d6cb11957d8.smil/chunklist_b3928000_cfMjAyNDEwLzAvMDMvMDM1OWRlZTNhOTEzNDE3NDA4OTAzMDk0ZGI0NzRmMDg3NmQyN2Y1YjVlY2YzNGI4YzQ2NzlkNmNiMTE5NTdkOC9iYTIxYTExNmY3ZWY4M2NmYjQxMzNjODk4MThmZGJhNy50dG1s.m3u8
+#EXTINF:0 group-title="Реванш", Реванш s01e05
+https://vod-k2301-kbp.1plus1.video/vod/1771961482/4V5Wo_029asw3UOCSStVkQ/202410/0/04/045c3b5d72b08ff31a6b78e98417b9926e1af0606fa2649999ce4459686d96bc.smil/chunklist_b3928000_cfMjAyNDEwLzAvMDQvMDQ1YzNiNWQ3MmIwOGZmMzFhNmI3OGU5ODQxN2I5OTI2ZTFhZjA2MDZmYTI2NDk5OTljZTQ0NTk2ODZkOTZiYy8wM2FlZTIyOTJhMDkyNDNlZmI4ODUyMzJkOTgxOWY1Ny50dG1s.m3u8
+#EXTINF:0 group-title="Реванш", Реванш s01e06
+https://vod-k2313-kbp.1plus1.video/vod/1771961504/Vqu8FEuryf7ZPOl-BlPACw/202410/c/c9/c9670ccd50dffcd1f584c2c772be54113861de08446553d7abba56ff46721449.smil/chunklist_b3928000_cfMjAyNDEwL2MvYzkvYzk2NzBjY2Q1MGRmZmNkMWY1ODRjMmM3NzJiZTU0MTEzODYxZGUwODQ0NjU1M2Q3YWJiYTU2ZmY0NjcyMTQ0OS9jMGUyZTlhYjlkN2Y4MmE1MTMxZWM2ZjRjMjZiYzQwNS50dG1s.m3u8
+#EXTINF:0 group-title="Реванш", Реванш s01e07
+https://vod-k2309-kbp.1plus1.video/vod/1771961522/NUtncNScKOIjbUdt1xfg_A/202410/6/60/60643bdd18dbda42ea7654b94a6d966fcf56baf58e1461e3718e62f2a6d45b4d.smil/chunklist_b3928000_cfMjAyNDEwLzYvNjAvNjA2NDNiZGQxOGRiZGE0MmVhNzY1NGI5NGE2ZDk2NmZjZjU2YmFmNThlMTQ2MWUzNzE4ZTYyZjJhNmQ0NWI0ZC9lMGM4MWM4YWJkZTUwYTQ2OTdlZDcyNTYzNGFjOTE3OS50dG1s.m3u8
+
 #EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e22
 https://vod-k2301-kbp.1plus1.video/vod/1768847068/Yp15IZpO2RuD4N0mEyhlZg/202403/8/87/872fc693b6758c268c5bc9c0d6b6ab94a7d72276c3a9fb08e9df5b88a5c5275c.smil/chunklist_b1728000.m3u8
 #EXTINF:0 group-title="Ніхто не ідеальний", Ніхто не ідеальний s01e23
