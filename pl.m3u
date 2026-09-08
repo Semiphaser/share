@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 group-title="Родительский дом",Родительский дом
-https://xio78978ser.redcdn.org/hls/mpegts/Kv7l5lK5edlT6ZlYI4Yu/968/3270664950/7gUICf46ArGopG4YSmI_HA/1779273916/2026/4/Z5BATVUF4KxygjNb6KjN_720.mp4/index-v1-a1.m3u8
-
-#EXTINF:0 group-title="Новая тёща",Новая тёща
-https://wed72212mbe.redcdn.org/hls/mpegts/Kv7l5lK5edlT6ZlYI4Yu/961/3270664950/BvAe0eJ3jI_oc-QRwQfVbg/1779274392/2026/4/b1LpCCkXwp3hYBGMhvzh_720.mp4/index-v1-a1.m3u8
-
-#EXTINF:0 group-title="Познакомься с новыми обстоятельствами",Познакомься с новыми обстоятельствами
-https://lcd52812vxg.redcdn.org/hls/mpegts/Kv7l5lK5edlT6ZlYI4Yu/977/3270664950/gQKgWcW02gOyfHc2etWHkw/1779274626/2026/5/juMncCVKqxYzhXmEIwvJ_720.mp4/index-v1-a1.m3u8
-
 #EXTINF:0 group-title="Реванш", Гудовы s01e01
 https://bbt64012het.redcdn.org/hls/mpegts/Kv7l5lK5edlT6ZlYI4Yu/966/3270664950/cArP1X4AHu0ENscTMTjurA/1788977936/2026/8/Gc0jnhsBEoIO6vhgW3Si_720.mp4/index-v1-a1.m3u8
 #EXTINF:0 group-title="Реванш", Гудовы s01e02
