@@ -1,7 +1,24 @@
 #EXTM3U
 
-#EXTINF:0 group-title="Зимородок", Зимородок s03e28
-https://kgs79584yej.redcdn.org/hls/mpegts/Kv7l5lK5edlT6ZlYI4Yu/918/3270664950/3pNIqriXhnSsZh1sxxc4vg/1791222913/2025/4/OJR9TAvoLsUceAgjEK8g_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Зимородок", Зимородок s03e01
+https://xhl81249rhk.redcdn.org/hls/mpegts/Kv7l5lK5edlT6ZlYI4Yu/771/3270664950/iOO_dbe7pN1GYRwIm_vbCw/1792166972/2024/9/ugWQqFEobsWToKhoDlD8_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Зимородок", Зимородок s03e02
+https://grj23985asi.redcdn.org/hls/mpegts/Kv7l5lK5edlT6ZlYI4Yu/822/3270664950/YCzZRPrEOweh5herLdPGIg/1792166972/2024/9/tnhjHlQQBiyf1Z8oRdC6_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Зимородок", Зимородок s03e03
+https://ecx40309tba.redcdn.org/hls/mpegts/Kv7l5lK5edlT6ZlYI4Yu/931/3270664950/w2VbmVkxUOBwPW-NkHfjtA/1792166972/2024/10/CczQhvkIEdCqMe7JjYS8_720.mp4/index-v1-a1.m3u8
+
+#EXTINF:0 group-title="Двухместный номер", Двухместный номер s01e01
+https://tay36670vns.redcdn.org/hls/mpegts/Kv7l5lK5edlT6ZlYI4Yu/888/3270664950/fxvEeKpI0J5ug39R6bTcEA/1792166560/2025/6/xHU6KjP8IW53kJo9CzQY_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Двухместный номер", Двухместный номер s01e02
+https://tay36670vns.redcdn.org/hls/mpegts/Kv7l5lK5edlT6ZlYI4Yu/888/3270664950/gGpLVAjeZFw6uTTt4mzlTg/1792166560/2025/6/yQtLrvlBlILaIpzuUPbi_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Двухместный номер", Двухместный номер s01e03
+https://vyp79089wuj.redcdn.org/hls/mpegts/Kv7l5lK5edlT6ZlYI4Yu/885/3270664950/uklDK5jAwSGmkT6oUzE2YA/1792166560/2025/6/1PtzJKiFy3q913aYWxoX_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Двухместный номер", Двухместный номер s01e04
+https://tay36670vns.redcdn.org/hls/mpegts/Kv7l5lK5edlT6ZlYI4Yu/888/3270664950/dsDyJDxdb97l-sXMHOl4BQ/1792166560/2025/6/btlXkJp8K3HbksfW1n3f_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Двухместный номер", Двухместный номер s01e05
+https://vyp79089wuj.redcdn.org/hls/mpegts/Kv7l5lK5edlT6ZlYI4Yu/885/3270664950/MzB_w5zbxUC-qsxiPaKYAA/1792166560/2025/6/Dojs069DqWQOH3PaDjIy_720.mp4/index-v1-a1.m3u8
+#EXTINF:0 group-title="Двухместный номер", Двухместный номер s01e06
+https://kgs79584yej.redcdn.org/hls/mpegts/Kv7l5lK5edlT6ZlYI4Yu/918/3270664950/vu9jzcW5rARxot4YtS6uVA/1792166560/2025/7/9lEOlWjtLlzRRtiikeBq_720.mp4/index-v1-a1.m3u8
 
 #EXTINF:0 group-title="Реванш", Гудовы s01e01
 https://bbt64012het.redcdn.org/hls/mpegts/Kv7l5lK5edlT6ZlYI4Yu/966/3270664950/cArP1X4AHu0ENscTMTjurA/1788977936/2026/8/Gc0jnhsBEoIO6vhgW3Si_720.mp4/index-v1-a1.m3u8
